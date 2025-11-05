@@ -1,0 +1,3241 @@
+name_state,DTNASC,metrica,valor
+Acre,2000,Mínimo,0
+Acre,2000,25 percentil,5
+Acre,2000,Mediana,7.2
+Acre,2000,75 percentil,10.6
+Acre,2000,Máximo,29.7
+Alagoas,2000,Mínimo,1.1
+Alagoas,2000,25 percentil,10.7
+Alagoas,2000,Mediana,16.5
+Alagoas,2000,75 percentil,31.8
+Alagoas,2000,Máximo,67.2
+Amapá,2000,Mínimo,2.5
+Amapá,2000,25 percentil,8.2
+Amapá,2000,Mediana,14.4
+Amapá,2000,75 percentil,20.8
+Amapá,2000,Máximo,24.6
+Amazonas,2000,Mínimo,0
+Amazonas,2000,25 percentil,2.65
+Amazonas,2000,Mediana,7.3
+Amazonas,2000,75 percentil,21.6
+Amazonas,2000,Máximo,83.9
+Bahia,2000,Mínimo,0
+Bahia,2000,25 percentil,8
+Bahia,2000,Mediana,18.6
+Bahia,2000,75 percentil,29.1
+Bahia,2000,Máximo,89.2
+Ceará,2000,Mínimo,0
+Ceará,2000,25 percentil,7.25
+Ceará,2000,Mediana,16.1
+Ceará,2000,75 percentil,28.375
+Ceará,2000,Máximo,81
+Distrito Federal,2000,Mínimo,39.8
+Distrito Federal,2000,25 percentil,39.8
+Distrito Federal,2000,Mediana,39.8
+Distrito Federal,2000,75 percentil,39.8
+Distrito Federal,2000,Máximo,39.8
+Espírito Santo,2000,Mínimo,14.8
+Espírito Santo,2000,25 percentil,36.15
+Espírito Santo,2000,Mediana,46.3
+Espírito Santo,2000,75 percentil,58.65
+Espírito Santo,2000,Máximo,99.1
+Goiás,2000,Mínimo,6.7
+Goiás,2000,25 percentil,32.4
+Goiás,2000,Mediana,46.5
+Goiás,2000,75 percentil,64.1
+Goiás,2000,Máximo,93
+Maranhão,2000,Mínimo,0
+Maranhão,2000,25 percentil,4.7
+Maranhão,2000,Mediana,11.4
+Maranhão,2000,75 percentil,21.15
+Maranhão,2000,Máximo,96.6
+Mato Grosso,2000,Mínimo,3.1
+Mato Grosso,2000,25 percentil,25.4
+Mato Grosso,2000,Mediana,36.7
+Mato Grosso,2000,75 percentil,51
+Mato Grosso,2000,Máximo,96.8
+Mato Grosso do Sul,2000,Mínimo,0
+Mato Grosso do Sul,2000,25 percentil,25
+Mato Grosso do Sul,2000,Mediana,40.3
+Mato Grosso do Sul,2000,75 percentil,55.45
+Mato Grosso do Sul,2000,Máximo,92.6
+Minas Gerais,2000,Mínimo,0.5
+Minas Gerais,2000,25 percentil,21.05
+Minas Gerais,2000,Mediana,37.9
+Minas Gerais,2000,75 percentil,57.5
+Minas Gerais,2000,Máximo,97.7
+Paraná,2000,Mínimo,0
+Paraná,2000,25 percentil,30.975
+Paraná,2000,Mediana,54.3
+Paraná,2000,75 percentil,73.825
+Paraná,2000,Máximo,100
+Paraíba,2000,Mínimo,4.2
+Paraíba,2000,25 percentil,9.825
+Paraíba,2000,Mediana,30.3
+Paraíba,2000,75 percentil,46.65
+Paraíba,2000,Máximo,90.9
+Pará,2000,Mínimo,0
+Pará,2000,25 percentil,4.725
+Pará,2000,Mediana,11.15
+Pará,2000,75 percentil,21.15
+Pará,2000,Máximo,62
+Pernambuco,2000,Mínimo,0
+Pernambuco,2000,25 percentil,9.85
+Pernambuco,2000,Mediana,18.4
+Pernambuco,2000,75 percentil,34.975
+Pernambuco,2000,Máximo,89.8
+Piauí,2000,Mínimo,0
+Piauí,2000,25 percentil,5.45
+Piauí,2000,Mediana,10.5
+Piauí,2000,75 percentil,22.5
+Piauí,2000,Máximo,62.4
+Rio Grande do Norte,2000,Mínimo,0
+Rio Grande do Norte,2000,25 percentil,9.6
+Rio Grande do Norte,2000,Mediana,17.6
+Rio Grande do Norte,2000,75 percentil,37.8
+Rio Grande do Norte,2000,Máximo,91.7
+Rio Grande do Sul,2000,Mínimo,3.5
+Rio Grande do Sul,2000,25 percentil,33.25
+Rio Grande do Sul,2000,Mediana,48.1
+Rio Grande do Sul,2000,75 percentil,64.9
+Rio Grande do Sul,2000,Máximo,96.1
+Rio de Janeiro,2000,Mínimo,0
+Rio de Janeiro,2000,25 percentil,44.65
+Rio de Janeiro,2000,Mediana,57.8
+Rio de Janeiro,2000,75 percentil,72.6
+Rio de Janeiro,2000,Máximo,98.1
+Rondônia,2000,Mínimo,1.8
+Rondônia,2000,25 percentil,14.5
+Rondônia,2000,Mediana,22.8
+Rondônia,2000,75 percentil,33.225
+Rondônia,2000,Máximo,80.5
+Roraima,2000,Mínimo,0
+Roraima,2000,25 percentil,9.625
+Roraima,2000,Mediana,14.6
+Roraima,2000,75 percentil,18.45
+Roraima,2000,Máximo,35.6
+Santa Catarina,2000,Mínimo,0.9
+Santa Catarina,2000,25 percentil,30
+Santa Catarina,2000,Mediana,41
+Santa Catarina,2000,75 percentil,55.8
+Santa Catarina,2000,Máximo,93.5
+Sergipe,2000,Mínimo,0
+Sergipe,2000,25 percentil,6.5
+Sergipe,2000,Mediana,20.9
+Sergipe,2000,75 percentil,37.2
+Sergipe,2000,Máximo,79.6
+São Paulo,2000,Mínimo,0
+São Paulo,2000,25 percentil,47.5
+São Paulo,2000,Mediana,65.25
+São Paulo,2000,75 percentil,77.875
+São Paulo,2000,Máximo,100
+Tocantins,2000,Mínimo,2.2
+Tocantins,2000,25 percentil,10.6
+Tocantins,2000,Mediana,18.6
+Tocantins,2000,75 percentil,32.2
+Tocantins,2000,Máximo,70.4
+Acre,2001,Mínimo,0
+Acre,2001,25 percentil,7.625
+Acre,2001,Mediana,12.85
+Acre,2001,75 percentil,20.75
+Acre,2001,Máximo,33.8
+Alagoas,2001,Mínimo,1.3
+Alagoas,2001,25 percentil,8.9
+Alagoas,2001,Mediana,18.7
+Alagoas,2001,75 percentil,33.8
+Alagoas,2001,Máximo,76.1
+Amapá,2001,Mínimo,0.5
+Amapá,2001,25 percentil,7.725
+Amapá,2001,Mediana,11.4
+Amapá,2001,75 percentil,19.825
+Amapá,2001,Máximo,30.6
+Amazonas,2001,Mínimo,0
+Amazonas,2001,25 percentil,4.35
+Amazonas,2001,Mediana,7.5
+Amazonas,2001,75 percentil,16.9
+Amazonas,2001,Máximo,69.3
+Bahia,2001,Mínimo,0
+Bahia,2001,25 percentil,9.625
+Bahia,2001,Mediana,17.3
+Bahia,2001,75 percentil,28.5
+Bahia,2001,Máximo,95.2
+Ceará,2001,Mínimo,0
+Ceará,2001,25 percentil,10.85
+Ceará,2001,Mediana,18.3
+Ceará,2001,75 percentil,28
+Ceará,2001,Máximo,75.9
+Distrito Federal,2001,Mínimo,45
+Distrito Federal,2001,25 percentil,45
+Distrito Federal,2001,Mediana,45
+Distrito Federal,2001,75 percentil,45
+Distrito Federal,2001,Máximo,45
+Espírito Santo,2001,Mínimo,9.6
+Espírito Santo,2001,25 percentil,34.625
+Espírito Santo,2001,Mediana,44.1
+Espírito Santo,2001,75 percentil,57.9
+Espírito Santo,2001,Máximo,98.7
+Goiás,2001,Mínimo,2.8
+Goiás,2001,25 percentil,33.325
+Goiás,2001,Mediana,53.35
+Goiás,2001,75 percentil,64.85
+Goiás,2001,Máximo,90.4
+Maranhão,2001,Mínimo,0
+Maranhão,2001,25 percentil,4.1
+Maranhão,2001,Mediana,10.8
+Maranhão,2001,75 percentil,22.025
+Maranhão,2001,Máximo,93.3
+Mato Grosso,2001,Mínimo,1.6
+Mato Grosso,2001,25 percentil,29.7
+Mato Grosso,2001,Mediana,41.3
+Mato Grosso,2001,75 percentil,64.25
+Mato Grosso,2001,Máximo,99.3
+Mato Grosso do Sul,2001,Mínimo,0.9
+Mato Grosso do Sul,2001,25 percentil,28.2
+Mato Grosso do Sul,2001,Mediana,44.65
+Mato Grosso do Sul,2001,75 percentil,59.625
+Mato Grosso do Sul,2001,Máximo,96.2
+Minas Gerais,2001,Mínimo,0.4
+Minas Gerais,2001,25 percentil,22.725
+Minas Gerais,2001,Mediana,40.1
+Minas Gerais,2001,75 percentil,63.55
+Minas Gerais,2001,Máximo,99.6
+Paraná,2001,Mínimo,0
+Paraná,2001,25 percentil,35.075
+Paraná,2001,Mediana,59.7
+Paraná,2001,75 percentil,79.425
+Paraná,2001,Máximo,100
+Paraíba,2001,Mínimo,0.4
+Paraíba,2001,25 percentil,11.7
+Paraíba,2001,Mediana,25.8
+Paraíba,2001,75 percentil,54.6
+Paraíba,2001,Máximo,95.2
+Pará,2001,Mínimo,0
+Pará,2001,25 percentil,5.4
+Pará,2001,Mediana,10.55
+Pará,2001,75 percentil,21.625
+Pará,2001,Máximo,66.9
+Pernambuco,2001,Mínimo,0
+Pernambuco,2001,25 percentil,10.95
+Pernambuco,2001,Mediana,20.8
+Pernambuco,2001,75 percentil,34.9
+Pernambuco,2001,Máximo,92.4
+Piauí,2001,Mínimo,0
+Piauí,2001,25 percentil,5.5
+Piauí,2001,Mediana,11.6
+Piauí,2001,75 percentil,27.1
+Piauí,2001,Máximo,51.9
+Rio Grande do Norte,2001,Mínimo,1.1
+Rio Grande do Norte,2001,25 percentil,9.95
+Rio Grande do Norte,2001,Mediana,18.3
+Rio Grande do Norte,2001,75 percentil,36.6
+Rio Grande do Norte,2001,Máximo,69.9
+Rio Grande do Sul,2001,Mínimo,0.9
+Rio Grande do Sul,2001,25 percentil,39.475
+Rio Grande do Sul,2001,Mediana,51.45
+Rio Grande do Sul,2001,75 percentil,66.025
+Rio Grande do Sul,2001,Máximo,95.5
+Rio de Janeiro,2001,Mínimo,0.9
+Rio de Janeiro,2001,25 percentil,41.325
+Rio de Janeiro,2001,Mediana,58.9
+Rio de Janeiro,2001,75 percentil,73.025
+Rio de Janeiro,2001,Máximo,99.2
+Rondônia,2001,Mínimo,3.4
+Rondônia,2001,25 percentil,20.125
+Rondônia,2001,Mediana,23.7
+Rondônia,2001,75 percentil,33.425
+Rondônia,2001,Máximo,85.5
+Roraima,2001,Mínimo,0.6
+Roraima,2001,25 percentil,8.225
+Roraima,2001,Mediana,10.25
+Roraima,2001,75 percentil,12.95
+Roraima,2001,Máximo,45.5
+Santa Catarina,2001,Mínimo,0.4
+Santa Catarina,2001,25 percentil,28.9
+Santa Catarina,2001,Mediana,45.9
+Santa Catarina,2001,75 percentil,59.6
+Santa Catarina,2001,Máximo,93.8
+Sergipe,2001,Mínimo,0
+Sergipe,2001,25 percentil,1.8
+Sergipe,2001,Mediana,17.65
+Sergipe,2001,75 percentil,26.875
+Sergipe,2001,Máximo,85.2
+São Paulo,2001,Mínimo,0.3
+São Paulo,2001,25 percentil,52.225
+São Paulo,2001,Mediana,68.1
+São Paulo,2001,75 percentil,81.15
+São Paulo,2001,Máximo,100
+Tocantins,2001,Mínimo,0
+Tocantins,2001,25 percentil,13.9
+Tocantins,2001,Mediana,22.65
+Tocantins,2001,75 percentil,36.55
+Tocantins,2001,Máximo,94.1
+Acre,2002,Mínimo,1.5
+Acre,2002,25 percentil,2.6
+Acre,2002,Mediana,9.5
+Acre,2002,75 percentil,15.2
+Acre,2002,Máximo,30.9
+Alagoas,2002,Mínimo,1.9
+Alagoas,2002,25 percentil,12.4
+Alagoas,2002,Mediana,24.6
+Alagoas,2002,75 percentil,42.55
+Alagoas,2002,Máximo,98.2
+Amapá,2002,Mínimo,3.3
+Amapá,2002,25 percentil,4.45
+Amapá,2002,Mediana,12.1
+Amapá,2002,75 percentil,17.425
+Amapá,2002,Máximo,32.1
+Amazonas,2002,Mínimo,0
+Amazonas,2002,25 percentil,5.7
+Amazonas,2002,Mediana,11.3
+Amazonas,2002,75 percentil,18.5
+Amazonas,2002,Máximo,62.4
+Bahia,2002,Mínimo,0
+Bahia,2002,25 percentil,9.9
+Bahia,2002,Mediana,20.3
+Bahia,2002,75 percentil,31.25
+Bahia,2002,Máximo,90.7
+Ceará,2002,Mínimo,0
+Ceará,2002,25 percentil,14.175
+Ceará,2002,Mediana,27.1
+Ceará,2002,75 percentil,38.6
+Ceará,2002,Máximo,84.3
+Distrito Federal,2002,Mínimo,48.8
+Distrito Federal,2002,25 percentil,48.8
+Distrito Federal,2002,Mediana,48.8
+Distrito Federal,2002,75 percentil,48.8
+Distrito Federal,2002,Máximo,48.8
+Espírito Santo,2002,Mínimo,8
+Espírito Santo,2002,25 percentil,37.3
+Espírito Santo,2002,Mediana,48.6
+Espírito Santo,2002,75 percentil,61.9
+Espírito Santo,2002,Máximo,98.9
+Goiás,2002,Mínimo,9.2
+Goiás,2002,25 percentil,35.025
+Goiás,2002,Mediana,53.6
+Goiás,2002,75 percentil,66.1
+Goiás,2002,Máximo,93.5
+Maranhão,2002,Mínimo,0
+Maranhão,2002,25 percentil,5.9
+Maranhão,2002,Mediana,12.2
+Maranhão,2002,75 percentil,20.75
+Maranhão,2002,Máximo,94
+Mato Grosso,2002,Mínimo,0
+Mato Grosso,2002,25 percentil,29.9
+Mato Grosso,2002,Mediana,43.2
+Mato Grosso,2002,75 percentil,66.5
+Mato Grosso,2002,Máximo,97.7
+Mato Grosso do Sul,2002,Mínimo,0.7
+Mato Grosso do Sul,2002,25 percentil,28.3
+Mato Grosso do Sul,2002,Mediana,46.15
+Mato Grosso do Sul,2002,75 percentil,63.4
+Mato Grosso do Sul,2002,Máximo,88.5
+Minas Gerais,2002,Mínimo,0
+Minas Gerais,2002,25 percentil,27.55
+Minas Gerais,2002,Mediana,45.4
+Minas Gerais,2002,75 percentil,64.85
+Minas Gerais,2002,Máximo,100
+Paraná,2002,Mínimo,0.4
+Paraná,2002,25 percentil,43.1
+Paraná,2002,Mediana,64.6
+Paraná,2002,75 percentil,82.25
+Paraná,2002,Máximo,99.3
+Paraíba,2002,Mínimo,0
+Paraíba,2002,25 percentil,16.325
+Paraíba,2002,Mediana,30.6
+Paraíba,2002,75 percentil,50
+Paraíba,2002,Máximo,98
+Pará,2002,Mínimo,0
+Pará,2002,25 percentil,5.475
+Pará,2002,Mediana,11.7
+Pará,2002,75 percentil,23.35
+Pará,2002,Máximo,88.6
+Pernambuco,2002,Mínimo,0.5
+Pernambuco,2002,25 percentil,13.3
+Pernambuco,2002,Mediana,25.5
+Pernambuco,2002,75 percentil,40.6
+Pernambuco,2002,Máximo,97
+Piauí,2002,Mínimo,0
+Piauí,2002,25 percentil,7.85
+Piauí,2002,Mediana,16.75
+Piauí,2002,75 percentil,27.375
+Piauí,2002,Máximo,59.4
+Rio Grande do Norte,2002,Mínimo,0
+Rio Grande do Norte,2002,25 percentil,14.65
+Rio Grande do Norte,2002,Mediana,21.45
+Rio Grande do Norte,2002,75 percentil,35.975
+Rio Grande do Norte,2002,Máximo,76.8
+Rio Grande do Sul,2002,Mínimo,7.7
+Rio Grande do Sul,2002,25 percentil,40.5
+Rio Grande do Sul,2002,Mediana,57.2
+Rio Grande do Sul,2002,75 percentil,69.95
+Rio Grande do Sul,2002,Máximo,99.4
+Rio de Janeiro,2002,Mínimo,2
+Rio de Janeiro,2002,25 percentil,45.25
+Rio de Janeiro,2002,Mediana,59.1
+Rio de Janeiro,2002,75 percentil,70.65
+Rio de Janeiro,2002,Máximo,98.4
+Rondônia,2002,Mínimo,2.2
+Rondônia,2002,25 percentil,19.9
+Rondônia,2002,Mediana,25
+Rondônia,2002,75 percentil,32.2
+Rondônia,2002,Máximo,62
+Roraima,2002,Mínimo,10
+Roraima,2002,25 percentil,10.5
+Roraima,2002,Mediana,12.4
+Roraima,2002,75 percentil,20.3
+Roraima,2002,Máximo,35.2
+Santa Catarina,2002,Mínimo,8
+Santa Catarina,2002,25 percentil,34.1
+Santa Catarina,2002,Mediana,52.3
+Santa Catarina,2002,75 percentil,67.3
+Santa Catarina,2002,Máximo,94.4
+Sergipe,2002,Mínimo,0
+Sergipe,2002,25 percentil,10.65
+Sergipe,2002,Mediana,17.9
+Sergipe,2002,75 percentil,38.15
+Sergipe,2002,Máximo,82.7
+São Paulo,2002,Mínimo,3
+São Paulo,2002,25 percentil,57.7
+São Paulo,2002,Mediana,71.1
+São Paulo,2002,75 percentil,83.7
+São Paulo,2002,Máximo,100
+Tocantins,2002,Mínimo,2.4
+Tocantins,2002,25 percentil,15.725
+Tocantins,2002,Mediana,26
+Tocantins,2002,75 percentil,38.075
+Tocantins,2002,Máximo,89
+Acre,2003,Mínimo,0.9
+Acre,2003,25 percentil,4.7
+Acre,2003,Mediana,9.1
+Acre,2003,75 percentil,15.8
+Acre,2003,Máximo,33.4
+Alagoas,2003,Mínimo,0
+Alagoas,2003,25 percentil,12
+Alagoas,2003,Mediana,24.5
+Alagoas,2003,75 percentil,32.4
+Alagoas,2003,Máximo,76
+Amapá,2003,Mínimo,2.3
+Amapá,2003,25 percentil,5.2
+Amapá,2003,Mediana,6.8
+Amapá,2003,75 percentil,22.1
+Amapá,2003,Máximo,34.6
+Amazonas,2003,Mínimo,0
+Amazonas,2003,25 percentil,6.525
+Amazonas,2003,Mediana,13.95
+Amazonas,2003,75 percentil,26.725
+Amazonas,2003,Máximo,60.2
+Bahia,2003,Mínimo,0
+Bahia,2003,25 percentil,12.85
+Bahia,2003,Mediana,22
+Bahia,2003,75 percentil,31.3
+Bahia,2003,Máximo,92.7
+Ceará,2003,Mínimo,0
+Ceará,2003,25 percentil,17.3
+Ceará,2003,Mediana,31
+Ceará,2003,75 percentil,42.575
+Ceará,2003,Máximo,100
+Distrito Federal,2003,Mínimo,49.6
+Distrito Federal,2003,25 percentil,49.6
+Distrito Federal,2003,Mediana,49.6
+Distrito Federal,2003,75 percentil,49.6
+Distrito Federal,2003,Máximo,49.6
+Espírito Santo,2003,Mínimo,10.9
+Espírito Santo,2003,25 percentil,40.5
+Espírito Santo,2003,Mediana,53
+Espírito Santo,2003,75 percentil,69.25
+Espírito Santo,2003,Máximo,99.2
+Goiás,2003,Mínimo,0.9
+Goiás,2003,25 percentil,40.45
+Goiás,2003,Mediana,57.5
+Goiás,2003,75 percentil,70.65
+Goiás,2003,Máximo,98.1
+Maranhão,2003,Mínimo,0
+Maranhão,2003,25 percentil,5.6
+Maranhão,2003,Mediana,14.3
+Maranhão,2003,75 percentil,25.4
+Maranhão,2003,Máximo,86.7
+Mato Grosso,2003,Mínimo,0
+Mato Grosso,2003,25 percentil,35.35
+Mato Grosso,2003,Mediana,50.6
+Mato Grosso,2003,75 percentil,64.55
+Mato Grosso,2003,Máximo,97.8
+Mato Grosso do Sul,2003,Mínimo,3.6
+Mato Grosso do Sul,2003,25 percentil,28.375
+Mato Grosso do Sul,2003,Mediana,46.7
+Mato Grosso do Sul,2003,75 percentil,63.675
+Mato Grosso do Sul,2003,Máximo,99.3
+Minas Gerais,2003,Mínimo,0.3
+Minas Gerais,2003,25 percentil,31.5
+Minas Gerais,2003,Mediana,48.2
+Minas Gerais,2003,75 percentil,66
+Minas Gerais,2003,Máximo,99.5
+Paraná,2003,Mínimo,0
+Paraná,2003,25 percentil,46.375
+Paraná,2003,Mediana,68
+Paraná,2003,75 percentil,81.575
+Paraná,2003,Máximo,99.5
+Paraíba,2003,Mínimo,0
+Paraíba,2003,25 percentil,20.45
+Paraíba,2003,Mediana,39.4
+Paraíba,2003,75 percentil,54.9
+Paraíba,2003,Máximo,94.8
+Pará,2003,Mínimo,0
+Pará,2003,25 percentil,6.325
+Pará,2003,Mediana,14.2
+Pará,2003,75 percentil,26.1
+Pará,2003,Máximo,90.3
+Pernambuco,2003,Mínimo,0
+Pernambuco,2003,25 percentil,14.575
+Pernambuco,2003,Mediana,28.2
+Pernambuco,2003,75 percentil,43.775
+Pernambuco,2003,Máximo,87.4
+Piauí,2003,Mínimo,0.4
+Piauí,2003,25 percentil,10.625
+Piauí,2003,Mediana,18.1
+Piauí,2003,75 percentil,27.3
+Piauí,2003,Máximo,61.8
+Rio Grande do Norte,2003,Mínimo,0
+Rio Grande do Norte,2003,25 percentil,13.25
+Rio Grande do Norte,2003,Mediana,22.75
+Rio Grande do Norte,2003,75 percentil,40.875
+Rio Grande do Norte,2003,Máximo,94.8
+Rio Grande do Sul,2003,Mínimo,15.2
+Rio Grande do Sul,2003,25 percentil,43.8
+Rio Grande do Sul,2003,Mediana,60
+Rio Grande do Sul,2003,75 percentil,73.9
+Rio Grande do Sul,2003,Máximo,98.3
+Rio de Janeiro,2003,Mínimo,1.4
+Rio de Janeiro,2003,25 percentil,49.875
+Rio de Janeiro,2003,Mediana,64.15
+Rio de Janeiro,2003,75 percentil,76.45
+Rio de Janeiro,2003,Máximo,100
+Rondônia,2003,Mínimo,4
+Rondônia,2003,25 percentil,16.2
+Rondônia,2003,Mediana,27.2
+Rondônia,2003,75 percentil,35.3
+Rondônia,2003,Máximo,93.6
+Roraima,2003,Mínimo,2.2
+Roraima,2003,25 percentil,9.3
+Roraima,2003,Mediana,12.4
+Roraima,2003,75 percentil,19.9
+Roraima,2003,Máximo,34.2
+Santa Catarina,2003,Mínimo,7.1
+Santa Catarina,2003,25 percentil,41.025
+Santa Catarina,2003,Mediana,54.65
+Santa Catarina,2003,75 percentil,72.2
+Santa Catarina,2003,Máximo,94.3
+Sergipe,2003,Mínimo,0
+Sergipe,2003,25 percentil,5.525
+Sergipe,2003,Mediana,23.65
+Sergipe,2003,75 percentil,39.95
+Sergipe,2003,Máximo,74.9
+São Paulo,2003,Mínimo,1.6
+São Paulo,2003,25 percentil,60.1
+São Paulo,2003,Mediana,75.5
+São Paulo,2003,75 percentil,87.25
+São Paulo,2003,Máximo,100
+Tocantins,2003,Mínimo,1.6
+Tocantins,2003,25 percentil,17.225
+Tocantins,2003,Mediana,28.45
+Tocantins,2003,75 percentil,40.85
+Tocantins,2003,Máximo,99
+Acre,2004,Mínimo,0
+Acre,2004,25 percentil,4.625
+Acre,2004,Mediana,10.75
+Acre,2004,75 percentil,18.2
+Acre,2004,Máximo,32.1
+Alagoas,2004,Mínimo,0
+Alagoas,2004,25 percentil,15.15
+Alagoas,2004,Mediana,20.9
+Alagoas,2004,75 percentil,31.65
+Alagoas,2004,Máximo,79.9
+Amapá,2004,Mínimo,1.8
+Amapá,2004,25 percentil,6.75
+Amapá,2004,Mediana,9.7
+Amapá,2004,75 percentil,19.95
+Amapá,2004,Máximo,40.5
+Amazonas,2004,Mínimo,0
+Amazonas,2004,25 percentil,7.775
+Amazonas,2004,Mediana,15.05
+Amazonas,2004,75 percentil,22.525
+Amazonas,2004,Máximo,67.5
+Bahia,2004,Mínimo,0
+Bahia,2004,25 percentil,14.4
+Bahia,2004,Mediana,22.2
+Bahia,2004,75 percentil,34.4
+Bahia,2004,Máximo,94.7
+Ceará,2004,Mínimo,1.6
+Ceará,2004,25 percentil,20.225
+Ceará,2004,Mediana,32.9
+Ceará,2004,75 percentil,45
+Ceará,2004,Máximo,100
+Distrito Federal,2004,Mínimo,49.4
+Distrito Federal,2004,25 percentil,49.4
+Distrito Federal,2004,Mediana,49.4
+Distrito Federal,2004,75 percentil,49.4
+Distrito Federal,2004,Máximo,49.4
+Espírito Santo,2004,Mínimo,9.1
+Espírito Santo,2004,25 percentil,44.925
+Espírito Santo,2004,Mediana,55.75
+Espírito Santo,2004,75 percentil,63.8
+Espírito Santo,2004,Máximo,99.3
+Goiás,2004,Mínimo,4.1
+Goiás,2004,25 percentil,43.1
+Goiás,2004,Mediana,61.1
+Goiás,2004,75 percentil,74.2
+Goiás,2004,Máximo,99.4
+Maranhão,2004,Mínimo,0
+Maranhão,2004,25 percentil,5.6
+Maranhão,2004,Mediana,14.6
+Maranhão,2004,75 percentil,24.45
+Maranhão,2004,Máximo,91.3
+Mato Grosso,2004,Mínimo,0.2
+Mato Grosso,2004,25 percentil,35.4
+Mato Grosso,2004,Mediana,52.1
+Mato Grosso,2004,75 percentil,67.2
+Mato Grosso,2004,Máximo,94.7
+Mato Grosso do Sul,2004,Mínimo,7.9
+Mato Grosso do Sul,2004,25 percentil,27.1
+Mato Grosso do Sul,2004,Mediana,49.5
+Mato Grosso do Sul,2004,75 percentil,65.25
+Mato Grosso do Sul,2004,Máximo,86.9
+Minas Gerais,2004,Mínimo,0.8
+Minas Gerais,2004,25 percentil,34.1
+Minas Gerais,2004,Mediana,53.1
+Minas Gerais,2004,75 percentil,70.925
+Minas Gerais,2004,Máximo,100
+Paraná,2004,Mínimo,0
+Paraná,2004,25 percentil,53.5
+Paraná,2004,Mediana,71
+Paraná,2004,75 percentil,84.5
+Paraná,2004,Máximo,99.4
+Paraíba,2004,Mínimo,0
+Paraíba,2004,25 percentil,22.6
+Paraíba,2004,Mediana,40.85
+Paraíba,2004,75 percentil,55.275
+Paraíba,2004,Máximo,95.5
+Pará,2004,Mínimo,0.1
+Pará,2004,25 percentil,6.2
+Pará,2004,Mediana,13.9
+Pará,2004,75 percentil,26.1
+Pará,2004,Máximo,90.4
+Pernambuco,2004,Mínimo,1.8
+Pernambuco,2004,25 percentil,14.9
+Pernambuco,2004,Mediana,26.4
+Pernambuco,2004,75 percentil,47.9
+Pernambuco,2004,Máximo,88.2
+Piauí,2004,Mínimo,0
+Piauí,2004,25 percentil,10.5
+Piauí,2004,Mediana,22.9
+Piauí,2004,75 percentil,32.4
+Piauí,2004,Máximo,56.5
+Rio Grande do Norte,2004,Mínimo,0
+Rio Grande do Norte,2004,25 percentil,14.55
+Rio Grande do Norte,2004,Mediana,26.9
+Rio Grande do Norte,2004,75 percentil,42.25
+Rio Grande do Norte,2004,Máximo,99
+Rio Grande do Sul,2004,Mínimo,21.6
+Rio Grande do Sul,2004,25 percentil,47.875
+Rio Grande do Sul,2004,Mediana,65.6
+Rio Grande do Sul,2004,75 percentil,75.7
+Rio Grande do Sul,2004,Máximo,100
+Rio de Janeiro,2004,Mínimo,5.5
+Rio de Janeiro,2004,25 percentil,49.8
+Rio de Janeiro,2004,Mediana,63.45
+Rio de Janeiro,2004,75 percentil,75.025
+Rio de Janeiro,2004,Máximo,99.3
+Rondônia,2004,Mínimo,5.8
+Rondônia,2004,25 percentil,18.25
+Rondônia,2004,Mediana,28.4
+Rondônia,2004,75 percentil,37.85
+Rondônia,2004,Máximo,96.4
+Roraima,2004,Mínimo,5.4
+Roraima,2004,25 percentil,11.4
+Roraima,2004,Mediana,17.7
+Roraima,2004,75 percentil,23.4
+Roraima,2004,Máximo,38.3
+Santa Catarina,2004,Mínimo,3.2
+Santa Catarina,2004,25 percentil,45.6
+Santa Catarina,2004,Mediana,62.4
+Santa Catarina,2004,75 percentil,73.2
+Santa Catarina,2004,Máximo,98.5
+Sergipe,2004,Mínimo,0.4
+Sergipe,2004,25 percentil,9.05
+Sergipe,2004,Mediana,15.8
+Sergipe,2004,75 percentil,32.85
+Sergipe,2004,Máximo,79.9
+São Paulo,2004,Mínimo,0
+São Paulo,2004,25 percentil,63.925
+São Paulo,2004,Mediana,77.45
+São Paulo,2004,75 percentil,86.7
+São Paulo,2004,Máximo,99.3
+Tocantins,2004,Mínimo,1.2
+Tocantins,2004,25 percentil,20.325
+Tocantins,2004,Mediana,32.15
+Tocantins,2004,75 percentil,49.375
+Tocantins,2004,Máximo,97.4
+Acre,2005,Mínimo,0
+Acre,2005,25 percentil,6.575
+Acre,2005,Mediana,9.75
+Acre,2005,75 percentil,18.075
+Acre,2005,Máximo,60.8
+Alagoas,2005,Mínimo,1.6
+Alagoas,2005,25 percentil,15.55
+Alagoas,2005,Mediana,24.3
+Alagoas,2005,75 percentil,36.45
+Alagoas,2005,Máximo,87.4
+Amapá,2005,Mínimo,5.9
+Amapá,2005,25 percentil,14
+Amapá,2005,Mediana,17.8
+Amapá,2005,75 percentil,20.9
+Amapá,2005,Máximo,25.6
+Amazonas,2005,Mínimo,0
+Amazonas,2005,25 percentil,7.975
+Amazonas,2005,Mediana,16.05
+Amazonas,2005,75 percentil,25.25
+Amazonas,2005,Máximo,64.9
+Bahia,2005,Mínimo,0.6
+Bahia,2005,25 percentil,12.7
+Bahia,2005,Mediana,22.3
+Bahia,2005,75 percentil,33.225
+Bahia,2005,Máximo,96.6
+Ceará,2005,Mínimo,0.3
+Ceará,2005,25 percentil,23.7
+Ceará,2005,Mediana,35.7
+Ceará,2005,75 percentil,47.725
+Ceará,2005,Máximo,99
+Distrito Federal,2005,Mínimo,51.9
+Distrito Federal,2005,25 percentil,51.9
+Distrito Federal,2005,Mediana,51.9
+Distrito Federal,2005,75 percentil,51.9
+Distrito Federal,2005,Máximo,51.9
+Espírito Santo,2005,Mínimo,13.8
+Espírito Santo,2005,25 percentil,41.2
+Espírito Santo,2005,Mediana,55.6
+Espírito Santo,2005,75 percentil,67.95
+Espírito Santo,2005,Máximo,100
+Goiás,2005,Mínimo,0
+Goiás,2005,25 percentil,50.6
+Goiás,2005,Mediana,63.05
+Goiás,2005,75 percentil,77.025
+Goiás,2005,Máximo,99.4
+Maranhão,2005,Mínimo,0
+Maranhão,2005,25 percentil,6.925
+Maranhão,2005,Mediana,13.5
+Maranhão,2005,75 percentil,22.45
+Maranhão,2005,Máximo,92.9
+Mato Grosso,2005,Mínimo,0
+Mato Grosso,2005,25 percentil,40.45
+Mato Grosso,2005,Mediana,55.9
+Mato Grosso,2005,75 percentil,70.75
+Mato Grosso,2005,Máximo,99.2
+Mato Grosso do Sul,2005,Mínimo,11.2
+Mato Grosso do Sul,2005,25 percentil,31.575
+Mato Grosso do Sul,2005,Mediana,55.05
+Mato Grosso do Sul,2005,75 percentil,66.7
+Mato Grosso do Sul,2005,Máximo,96.6
+Minas Gerais,2005,Mínimo,0
+Minas Gerais,2005,25 percentil,36.7
+Minas Gerais,2005,Mediana,55.4
+Minas Gerais,2005,75 percentil,71.95
+Minas Gerais,2005,Máximo,99.2
+Paraná,2005,Mínimo,2.6
+Paraná,2005,25 percentil,59.075
+Paraná,2005,Mediana,71.35
+Paraná,2005,75 percentil,84.4
+Paraná,2005,Máximo,100
+Paraíba,2005,Mínimo,0
+Paraíba,2005,25 percentil,21.4
+Paraíba,2005,Mediana,38.8
+Paraíba,2005,75 percentil,54
+Paraíba,2005,Máximo,100
+Pará,2005,Mínimo,0
+Pará,2005,25 percentil,7.3
+Pará,2005,Mediana,14.8
+Pará,2005,75 percentil,27.9
+Pará,2005,Máximo,91
+Pernambuco,2005,Mínimo,0.7
+Pernambuco,2005,25 percentil,16.1
+Pernambuco,2005,Mediana,29.1
+Pernambuco,2005,75 percentil,43.825
+Pernambuco,2005,Máximo,87.9
+Piauí,2005,Mínimo,0.5
+Piauí,2005,25 percentil,11.85
+Piauí,2005,Mediana,21.9
+Piauí,2005,75 percentil,30.55
+Piauí,2005,Máximo,72.9
+Rio Grande do Norte,2005,Mínimo,0
+Rio Grande do Norte,2005,25 percentil,24.15
+Rio Grande do Norte,2005,Mediana,32.9
+Rio Grande do Norte,2005,75 percentil,46.8
+Rio Grande do Norte,2005,Máximo,100
+Rio Grande do Sul,2005,Mínimo,0
+Rio Grande do Sul,2005,25 percentil,53.85
+Rio Grande do Sul,2005,Mediana,66.85
+Rio Grande do Sul,2005,75 percentil,81
+Rio Grande do Sul,2005,Máximo,99.2
+Rio de Janeiro,2005,Mínimo,0.8
+Rio de Janeiro,2005,25 percentil,51.4
+Rio de Janeiro,2005,Mediana,64.9
+Rio de Janeiro,2005,75 percentil,75.7
+Rio de Janeiro,2005,Máximo,99
+Rondônia,2005,Mínimo,2.2
+Rondônia,2005,25 percentil,20.875
+Rondônia,2005,Mediana,32.9
+Rondônia,2005,75 percentil,39.65
+Rondônia,2005,Máximo,56.8
+Roraima,2005,Mínimo,2.4
+Roraima,2005,25 percentil,11
+Roraima,2005,Mediana,14.8
+Roraima,2005,75 percentil,16.7
+Roraima,2005,Máximo,51.4
+Santa Catarina,2005,Mínimo,23
+Santa Catarina,2005,25 percentil,46.7
+Santa Catarina,2005,Mediana,63
+Santa Catarina,2005,75 percentil,77.05
+Santa Catarina,2005,Máximo,99.1
+Sergipe,2005,Mínimo,0
+Sergipe,2005,25 percentil,9.1
+Sergipe,2005,Mediana,23.5
+Sergipe,2005,75 percentil,38
+Sergipe,2005,Máximo,70.3
+São Paulo,2005,Mínimo,0
+São Paulo,2005,25 percentil,64.2
+São Paulo,2005,Mediana,77.6
+São Paulo,2005,75 percentil,87.4
+São Paulo,2005,Máximo,100
+Tocantins,2005,Mínimo,4.2
+Tocantins,2005,25 percentil,18.8
+Tocantins,2005,Mediana,34
+Tocantins,2005,75 percentil,46.8
+Tocantins,2005,Máximo,99.1
+Acre,2006,Mínimo,1.1
+Acre,2006,25 percentil,3.7
+Acre,2006,Mediana,7.1
+Acre,2006,75 percentil,17.9
+Acre,2006,Máximo,63.1
+Alagoas,2006,Mínimo,3.1
+Alagoas,2006,25 percentil,17.375
+Alagoas,2006,Mediana,27.5
+Alagoas,2006,75 percentil,38.85
+Alagoas,2006,Máximo,87.2
+Amapá,2006,Mínimo,6.5
+Amapá,2006,25 percentil,14.8
+Amapá,2006,Mediana,15.7
+Amapá,2006,75 percentil,20.4
+Amapá,2006,Máximo,24.8
+Amazonas,2006,Mínimo,0
+Amazonas,2006,25 percentil,9.5
+Amazonas,2006,Mediana,16.2
+Amazonas,2006,75 percentil,26
+Amazonas,2006,Máximo,60.7
+Bahia,2006,Mínimo,0.4
+Bahia,2006,25 percentil,15.85
+Bahia,2006,Mediana,25.05
+Bahia,2006,75 percentil,36.7
+Bahia,2006,Máximo,100
+Ceará,2006,Mínimo,4.7
+Ceará,2006,25 percentil,29.475
+Ceará,2006,Mediana,42.95
+Ceará,2006,75 percentil,57.325
+Ceará,2006,Máximo,100
+Distrito Federal,2006,Mínimo,52.7
+Distrito Federal,2006,25 percentil,52.7
+Distrito Federal,2006,Mediana,52.7
+Distrito Federal,2006,75 percentil,52.7
+Distrito Federal,2006,Máximo,52.7
+Espírito Santo,2006,Mínimo,5.4
+Espírito Santo,2006,25 percentil,45.3
+Espírito Santo,2006,Mediana,56.7
+Espírito Santo,2006,75 percentil,70.625
+Espírito Santo,2006,Máximo,93.2
+Goiás,2006,Mínimo,0.8
+Goiás,2006,25 percentil,53.275
+Goiás,2006,Mediana,65.1
+Goiás,2006,75 percentil,76.925
+Goiás,2006,Máximo,100
+Maranhão,2006,Mínimo,0
+Maranhão,2006,25 percentil,7.9
+Maranhão,2006,Mediana,14.4
+Maranhão,2006,75 percentil,27.8
+Maranhão,2006,Máximo,99.1
+Mato Grosso,2006,Mínimo,5
+Mato Grosso,2006,25 percentil,43.7
+Mato Grosso,2006,Mediana,56.5
+Mato Grosso,2006,75 percentil,73.6
+Mato Grosso,2006,Máximo,97.7
+Mato Grosso do Sul,2006,Mínimo,11.7
+Mato Grosso do Sul,2006,25 percentil,38.55
+Mato Grosso do Sul,2006,Mediana,56.5
+Mato Grosso do Sul,2006,75 percentil,65.1
+Mato Grosso do Sul,2006,Máximo,92.2
+Minas Gerais,2006,Mínimo,1.4
+Minas Gerais,2006,25 percentil,41.425
+Minas Gerais,2006,Mediana,59.2
+Minas Gerais,2006,75 percentil,72.275
+Minas Gerais,2006,Máximo,100
+Paraná,2006,Mínimo,2.4
+Paraná,2006,25 percentil,62.8
+Paraná,2006,Mediana,73.25
+Paraná,2006,75 percentil,86.175
+Paraná,2006,Máximo,99.6
+Paraíba,2006,Mínimo,0
+Paraíba,2006,25 percentil,32.925
+Paraíba,2006,Mediana,42
+Paraíba,2006,75 percentil,57.625
+Paraíba,2006,Máximo,98.6
+Pará,2006,Mínimo,0.9
+Pará,2006,25 percentil,10
+Pará,2006,Mediana,16.1
+Pará,2006,75 percentil,30.3
+Pará,2006,Máximo,84.5
+Pernambuco,2006,Mínimo,0
+Pernambuco,2006,25 percentil,16.775
+Pernambuco,2006,Mediana,31.85
+Pernambuco,2006,75 percentil,46.35
+Pernambuco,2006,Máximo,96.1
+Piauí,2006,Mínimo,1.6
+Piauí,2006,25 percentil,13.4
+Piauí,2006,Mediana,26.7
+Piauí,2006,75 percentil,37.85
+Piauí,2006,Máximo,73.6
+Rio Grande do Norte,2006,Mínimo,0
+Rio Grande do Norte,2006,25 percentil,28.925
+Rio Grande do Norte,2006,Mediana,45.2
+Rio Grande do Norte,2006,75 percentil,55.4
+Rio Grande do Norte,2006,Máximo,99.2
+Rio Grande do Sul,2006,Mínimo,29
+Rio Grande do Sul,2006,25 percentil,60.175
+Rio Grande do Sul,2006,Mediana,73.2
+Rio Grande do Sul,2006,75 percentil,83.75
+Rio Grande do Sul,2006,Máximo,100
+Rio de Janeiro,2006,Mínimo,9.8
+Rio de Janeiro,2006,25 percentil,48.75
+Rio de Janeiro,2006,Mediana,64.5
+Rio de Janeiro,2006,75 percentil,75.8
+Rio de Janeiro,2006,Máximo,99.7
+Rondônia,2006,Mínimo,11.6
+Rondônia,2006,25 percentil,19.275
+Rondônia,2006,Mediana,30.45
+Rondônia,2006,75 percentil,44.825
+Rondônia,2006,Máximo,62.5
+Roraima,2006,Mínimo,2
+Roraima,2006,25 percentil,10.5
+Roraima,2006,Mediana,12.2
+Roraima,2006,75 percentil,14.1
+Roraima,2006,Máximo,41.5
+Santa Catarina,2006,Mínimo,22.6
+Santa Catarina,2006,25 percentil,52.275
+Santa Catarina,2006,Mediana,68.65
+Santa Catarina,2006,75 percentil,80.425
+Santa Catarina,2006,Máximo,99.1
+Sergipe,2006,Mínimo,2
+Sergipe,2006,25 percentil,14
+Sergipe,2006,Mediana,36.6
+Sergipe,2006,75 percentil,46.7
+Sergipe,2006,Máximo,66.2
+São Paulo,2006,Mínimo,1.3
+São Paulo,2006,25 percentil,65.5
+São Paulo,2006,Mediana,77.2
+São Paulo,2006,75 percentil,85.8
+São Paulo,2006,Máximo,100
+Tocantins,2006,Mínimo,8.3
+Tocantins,2006,25 percentil,18.475
+Tocantins,2006,Mediana,31.7
+Tocantins,2006,75 percentil,45.175
+Tocantins,2006,Máximo,77.8
+Acre,2007,Mínimo,1.9
+Acre,2007,25 percentil,5.6
+Acre,2007,Mediana,11.5
+Acre,2007,75 percentil,22.125
+Acre,2007,Máximo,70.3
+Alagoas,2007,Mínimo,2.2
+Alagoas,2007,25 percentil,16.425
+Alagoas,2007,Mediana,27.4
+Alagoas,2007,75 percentil,37.725
+Alagoas,2007,Máximo,90.9
+Amapá,2007,Mínimo,8.3
+Amapá,2007,25 percentil,14.35
+Amapá,2007,Mediana,20.6
+Amapá,2007,75 percentil,23.25
+Amapá,2007,Máximo,27.9
+Amazonas,2007,Mínimo,0.4
+Amazonas,2007,25 percentil,11.375
+Amazonas,2007,Mediana,19.45
+Amazonas,2007,75 percentil,25.075
+Amazonas,2007,Máximo,63.2
+Bahia,2007,Mínimo,0.6
+Bahia,2007,25 percentil,17.9
+Bahia,2007,Mediana,26.7
+Bahia,2007,75 percentil,38.5
+Bahia,2007,Máximo,99.3
+Ceará,2007,Mínimo,5.7
+Ceará,2007,25 percentil,38.8
+Ceará,2007,Mediana,50.5
+Ceará,2007,75 percentil,64.85
+Ceará,2007,Máximo,92.9
+Distrito Federal,2007,Mínimo,58
+Distrito Federal,2007,25 percentil,58
+Distrito Federal,2007,Mediana,58
+Distrito Federal,2007,75 percentil,58
+Distrito Federal,2007,Máximo,58
+Espírito Santo,2007,Mínimo,7.2
+Espírito Santo,2007,25 percentil,46.95
+Espírito Santo,2007,Mediana,63.25
+Espírito Santo,2007,75 percentil,74.4
+Espírito Santo,2007,Máximo,95.5
+Goiás,2007,Mínimo,0.8
+Goiás,2007,25 percentil,52.825
+Goiás,2007,Mediana,65.1
+Goiás,2007,75 percentil,77
+Goiás,2007,Máximo,100
+Maranhão,2007,Mínimo,0.6
+Maranhão,2007,25 percentil,8.1
+Maranhão,2007,Mediana,17.3
+Maranhão,2007,75 percentil,34.3
+Maranhão,2007,Máximo,98.6
+Mato Grosso,2007,Mínimo,5.6
+Mato Grosso,2007,25 percentil,45.325
+Mato Grosso,2007,Mediana,55.8
+Mato Grosso,2007,75 percentil,73.8
+Mato Grosso,2007,Máximo,98.1
+Mato Grosso do Sul,2007,Mínimo,5.7
+Mato Grosso do Sul,2007,25 percentil,42.8
+Mato Grosso do Sul,2007,Mediana,59.65
+Mato Grosso do Sul,2007,75 percentil,71.95
+Mato Grosso do Sul,2007,Máximo,97.1
+Minas Gerais,2007,Mínimo,3.2
+Minas Gerais,2007,25 percentil,44.825
+Minas Gerais,2007,Mediana,60.45
+Minas Gerais,2007,75 percentil,73.775
+Minas Gerais,2007,Máximo,100
+Paraná,2007,Mínimo,3.8
+Paraná,2007,25 percentil,61.2
+Paraná,2007,Mediana,74.2
+Paraná,2007,75 percentil,87.05
+Paraná,2007,Máximo,99.5
+Paraíba,2007,Mínimo,3.8
+Paraíba,2007,25 percentil,36.425
+Paraíba,2007,Mediana,43.55
+Paraíba,2007,75 percentil,56.325
+Paraíba,2007,Máximo,98.5
+Pará,2007,Mínimo,2.2
+Pará,2007,25 percentil,8.8
+Pará,2007,Mediana,15
+Pará,2007,75 percentil,28.9
+Pará,2007,Máximo,82
+Pernambuco,2007,Mínimo,0.4
+Pernambuco,2007,25 percentil,18.25
+Pernambuco,2007,Mediana,32.2
+Pernambuco,2007,75 percentil,47.5
+Pernambuco,2007,Máximo,96.7
+Piauí,2007,Mínimo,5.2
+Piauí,2007,25 percentil,15.8
+Piauí,2007,Mediana,27
+Piauí,2007,75 percentil,49.1
+Piauí,2007,Máximo,67.9
+Rio Grande do Norte,2007,Mínimo,0
+Rio Grande do Norte,2007,25 percentil,33.9
+Rio Grande do Norte,2007,Mediana,42.7
+Rio Grande do Norte,2007,75 percentil,56.3
+Rio Grande do Norte,2007,Máximo,100
+Rio Grande do Sul,2007,Mínimo,31.7
+Rio Grande do Sul,2007,25 percentil,63.6
+Rio Grande do Sul,2007,Mediana,75.5
+Rio Grande do Sul,2007,75 percentil,83.7
+Rio Grande do Sul,2007,Máximo,99.8
+Rio de Janeiro,2007,Mínimo,2.1
+Rio de Janeiro,2007,25 percentil,49.95
+Rio de Janeiro,2007,Mediana,60.8
+Rio de Janeiro,2007,75 percentil,74.85
+Rio de Janeiro,2007,Máximo,99.4
+Rondônia,2007,Mínimo,10.9
+Rondônia,2007,25 percentil,21.7
+Rondônia,2007,Mediana,35.45
+Rondônia,2007,75 percentil,50.95
+Rondônia,2007,Máximo,64.7
+Roraima,2007,Mínimo,8
+Roraima,2007,25 percentil,11.25
+Roraima,2007,Mediana,11.95
+Roraima,2007,75 percentil,16.475
+Roraima,2007,Máximo,40.5
+Santa Catarina,2007,Mínimo,25.6
+Santa Catarina,2007,25 percentil,52.95
+Santa Catarina,2007,Mediana,67.55
+Santa Catarina,2007,75 percentil,79.6
+Santa Catarina,2007,Máximo,97.5
+Sergipe,2007,Mínimo,5.5
+Sergipe,2007,25 percentil,17.3
+Sergipe,2007,Mediana,23.8
+Sergipe,2007,75 percentil,37.95
+Sergipe,2007,Máximo,87
+São Paulo,2007,Mínimo,2.7
+São Paulo,2007,25 percentil,68.225
+São Paulo,2007,Mediana,78.35
+São Paulo,2007,75 percentil,85.525
+São Paulo,2007,Máximo,99.5
+Tocantins,2007,Mínimo,9.7
+Tocantins,2007,25 percentil,22.6
+Tocantins,2007,Mediana,34.45
+Tocantins,2007,75 percentil,46.5
+Tocantins,2007,Máximo,82.7
+Acre,2008,Mínimo,3.7
+Acre,2008,25 percentil,7.1
+Acre,2008,Mediana,15.2
+Acre,2008,75 percentil,24.2
+Acre,2008,Máximo,38
+Alagoas,2008,Mínimo,4.8
+Alagoas,2008,25 percentil,19.2
+Alagoas,2008,Mediana,32.9
+Alagoas,2008,75 percentil,47.5
+Alagoas,2008,Máximo,86.8
+Amapá,2008,Mínimo,8.3
+Amapá,2008,25 percentil,10.95
+Amapá,2008,Mediana,18.2
+Amapá,2008,75 percentil,23.45
+Amapá,2008,Máximo,29.1
+Amazonas,2008,Mínimo,1.4
+Amazonas,2008,25 percentil,14.575
+Amazonas,2008,Mediana,23
+Amazonas,2008,75 percentil,30.925
+Amazonas,2008,Máximo,67
+Bahia,2008,Mínimo,1.6
+Bahia,2008,25 percentil,20.55
+Bahia,2008,Mediana,30.25
+Bahia,2008,75 percentil,42.4
+Bahia,2008,Máximo,99.3
+Ceará,2008,Mínimo,1.3
+Ceará,2008,25 percentil,45.025
+Ceará,2008,Mediana,55.55
+Ceará,2008,75 percentil,69.025
+Ceará,2008,Máximo,95.7
+Distrito Federal,2008,Mínimo,59.7
+Distrito Federal,2008,25 percentil,59.7
+Distrito Federal,2008,Mediana,59.7
+Distrito Federal,2008,75 percentil,59.7
+Distrito Federal,2008,Máximo,59.7
+Espírito Santo,2008,Mínimo,13.8
+Espírito Santo,2008,25 percentil,47.2
+Espírito Santo,2008,Mediana,64.8
+Espírito Santo,2008,75 percentil,72.9
+Espírito Santo,2008,Máximo,97.1
+Goiás,2008,Mínimo,16.2
+Goiás,2008,25 percentil,56.175
+Goiás,2008,Mediana,65
+Goiás,2008,75 percentil,82.55
+Goiás,2008,Máximo,100
+Maranhão,2008,Mínimo,0
+Maranhão,2008,25 percentil,9.425
+Maranhão,2008,Mediana,16.35
+Maranhão,2008,75 percentil,29.625
+Maranhão,2008,Máximo,100
+Mato Grosso,2008,Mínimo,20.3
+Mato Grosso,2008,25 percentil,46.55
+Mato Grosso,2008,Mediana,63.45
+Mato Grosso,2008,75 percentil,79.25
+Mato Grosso,2008,Máximo,97.5
+Mato Grosso do Sul,2008,Mínimo,17.1
+Mato Grosso do Sul,2008,25 percentil,43.85
+Mato Grosso do Sul,2008,Mediana,60.1
+Mato Grosso do Sul,2008,75 percentil,71.525
+Mato Grosso do Sul,2008,Máximo,98.6
+Minas Gerais,2008,Mínimo,9.1
+Minas Gerais,2008,25 percentil,47.2
+Minas Gerais,2008,Mediana,62.45
+Minas Gerais,2008,75 percentil,76.575
+Minas Gerais,2008,Máximo,100
+Paraná,2008,Mínimo,0.6
+Paraná,2008,25 percentil,64.45
+Paraná,2008,Mediana,76.9
+Paraná,2008,75 percentil,88.55
+Paraná,2008,Máximo,100
+Paraíba,2008,Mínimo,5.7
+Paraíba,2008,25 percentil,37.5
+Paraíba,2008,Mediana,55
+Paraíba,2008,75 percentil,61.25
+Paraíba,2008,Máximo,99.2
+Pará,2008,Mínimo,2
+Pará,2008,25 percentil,11.2
+Pará,2008,Mediana,17.9
+Pará,2008,75 percentil,28.3
+Pará,2008,Máximo,68.4
+Pernambuco,2008,Mínimo,0.4
+Pernambuco,2008,25 percentil,22.9
+Pernambuco,2008,Mediana,36.2
+Pernambuco,2008,75 percentil,47.8
+Pernambuco,2008,Máximo,98.6
+Piauí,2008,Mínimo,3
+Piauí,2008,25 percentil,17.95
+Piauí,2008,Mediana,31.7
+Piauí,2008,75 percentil,48.475
+Piauí,2008,Máximo,66.3
+Rio Grande do Norte,2008,Mínimo,5.4
+Rio Grande do Norte,2008,25 percentil,28.35
+Rio Grande do Norte,2008,Mediana,48.2
+Rio Grande do Norte,2008,75 percentil,63.125
+Rio Grande do Norte,2008,Máximo,99.1
+Rio Grande do Sul,2008,Mínimo,39
+Rio Grande do Sul,2008,25 percentil,65.7
+Rio Grande do Sul,2008,Mediana,76.1
+Rio Grande do Sul,2008,75 percentil,84.75
+Rio Grande do Sul,2008,Máximo,99.1
+Rio de Janeiro,2008,Mínimo,0.5
+Rio de Janeiro,2008,25 percentil,48.75
+Rio de Janeiro,2008,Mediana,57
+Rio de Janeiro,2008,75 percentil,75.7
+Rio de Janeiro,2008,Máximo,98.9
+Rondônia,2008,Mínimo,0.3
+Rondônia,2008,25 percentil,30.7
+Rondônia,2008,Mediana,40.2
+Rondônia,2008,75 percentil,60.5
+Rondônia,2008,Máximo,72.3
+Roraima,2008,Mínimo,3
+Roraima,2008,25 percentil,5.9
+Roraima,2008,Mediana,7.8
+Roraima,2008,75 percentil,19.1
+Roraima,2008,Máximo,41
+Santa Catarina,2008,Mínimo,26.3
+Santa Catarina,2008,25 percentil,54.525
+Santa Catarina,2008,Mediana,70.45
+Santa Catarina,2008,75 percentil,80.775
+Santa Catarina,2008,Máximo,97.9
+Sergipe,2008,Mínimo,1
+Sergipe,2008,25 percentil,15.375
+Sergipe,2008,Mediana,34.1
+Sergipe,2008,75 percentil,39.8
+Sergipe,2008,Máximo,81.4
+São Paulo,2008,Mínimo,3.4
+São Paulo,2008,25 percentil,71.275
+São Paulo,2008,Mediana,79.9
+São Paulo,2008,75 percentil,87.825
+São Paulo,2008,Máximo,100
+Tocantins,2008,Mínimo,4.2
+Tocantins,2008,25 percentil,25.525
+Tocantins,2008,Mediana,37.75
+Tocantins,2008,75 percentil,46.65
+Tocantins,2008,Máximo,75.8
+Acre,2009,Mínimo,1.6
+Acre,2009,25 percentil,7.575
+Acre,2009,Mediana,14
+Acre,2009,75 percentil,18.825
+Acre,2009,Máximo,39.8
+Alagoas,2009,Mínimo,3.8
+Alagoas,2009,25 percentil,14.7
+Alagoas,2009,Mediana,28
+Alagoas,2009,75 percentil,40.375
+Alagoas,2009,Máximo,88
+Amapá,2009,Mínimo,5.3
+Amapá,2009,25 percentil,13.45
+Amapá,2009,Mediana,21.3
+Amapá,2009,75 percentil,27.85
+Amapá,2009,Máximo,31.3
+Amazonas,2009,Mínimo,0.5
+Amazonas,2009,25 percentil,14.35
+Amazonas,2009,Mediana,21.3
+Amazonas,2009,75 percentil,32.35
+Amazonas,2009,Máximo,59.7
+Bahia,2009,Mínimo,3.2
+Bahia,2009,25 percentil,21.3
+Bahia,2009,Mediana,33.6
+Bahia,2009,75 percentil,43.95
+Bahia,2009,Máximo,98.6
+Ceará,2009,Mínimo,9.5
+Ceará,2009,25 percentil,45.675
+Ceará,2009,Mediana,59.15
+Ceará,2009,75 percentil,72.325
+Ceará,2009,Máximo,97.4
+Distrito Federal,2009,Mínimo,61.7
+Distrito Federal,2009,25 percentil,61.7
+Distrito Federal,2009,Mediana,61.7
+Distrito Federal,2009,75 percentil,61.7
+Distrito Federal,2009,Máximo,61.7
+Espírito Santo,2009,Mínimo,19.5
+Espírito Santo,2009,25 percentil,54.075
+Espírito Santo,2009,Mediana,61.8
+Espírito Santo,2009,75 percentil,76.425
+Espírito Santo,2009,Máximo,97.5
+Goiás,2009,Mínimo,12.4
+Goiás,2009,25 percentil,51.1
+Goiás,2009,Mediana,66
+Goiás,2009,75 percentil,77.8
+Goiás,2009,Máximo,98.5
+Maranhão,2009,Mínimo,0.1
+Maranhão,2009,25 percentil,9.05
+Maranhão,2009,Mediana,16.7
+Maranhão,2009,75 percentil,26.75
+Maranhão,2009,Máximo,98
+Mato Grosso,2009,Mínimo,33
+Mato Grosso,2009,25 percentil,53.55
+Mato Grosso,2009,Mediana,66.2
+Mato Grosso,2009,75 percentil,77.8
+Mato Grosso,2009,Máximo,99.2
+Mato Grosso do Sul,2009,Mínimo,19.9
+Mato Grosso do Sul,2009,25 percentil,41.575
+Mato Grosso do Sul,2009,Mediana,62.7
+Mato Grosso do Sul,2009,75 percentil,73.975
+Mato Grosso do Sul,2009,Máximo,98.5
+Minas Gerais,2009,Mínimo,13.3
+Minas Gerais,2009,25 percentil,50.9
+Minas Gerais,2009,Mediana,64.55
+Minas Gerais,2009,75 percentil,76.6
+Minas Gerais,2009,Máximo,100
+Paraná,2009,Mínimo,4.5
+Paraná,2009,25 percentil,65.05
+Paraná,2009,Mediana,78.3
+Paraná,2009,75 percentil,87.425
+Paraná,2009,Máximo,99.4
+Paraíba,2009,Mínimo,18.6
+Paraíba,2009,25 percentil,36.225
+Paraíba,2009,Mediana,55.15
+Paraíba,2009,75 percentil,61.775
+Paraíba,2009,Máximo,98.2
+Pará,2009,Mínimo,1.6
+Pará,2009,25 percentil,12.8
+Pará,2009,Mediana,19.5
+Pará,2009,75 percentil,28.9
+Pará,2009,Máximo,74.1
+Pernambuco,2009,Mínimo,1.8
+Pernambuco,2009,25 percentil,27.125
+Pernambuco,2009,Mediana,39.8
+Pernambuco,2009,75 percentil,52.225
+Pernambuco,2009,Máximo,96.9
+Piauí,2009,Mínimo,2.2
+Piauí,2009,25 percentil,21.15
+Piauí,2009,Mediana,29
+Piauí,2009,75 percentil,42.375
+Piauí,2009,Máximo,69.6
+Rio Grande do Norte,2009,Mínimo,0.8
+Rio Grande do Norte,2009,25 percentil,34.4
+Rio Grande do Norte,2009,Mediana,46.1
+Rio Grande do Norte,2009,75 percentil,59.25
+Rio Grande do Norte,2009,Máximo,99.2
+Rio Grande do Sul,2009,Mínimo,28.2
+Rio Grande do Sul,2009,25 percentil,67.675
+Rio Grande do Sul,2009,Mediana,77.5
+Rio Grande do Sul,2009,75 percentil,85.6
+Rio Grande do Sul,2009,Máximo,99.8
+Rio de Janeiro,2009,Mínimo,0.3
+Rio de Janeiro,2009,25 percentil,49.15
+Rio de Janeiro,2009,Mediana,59.8
+Rio de Janeiro,2009,75 percentil,77.75
+Rio de Janeiro,2009,Máximo,94.2
+Rondônia,2009,Mínimo,0.1
+Rondônia,2009,25 percentil,30.3
+Rondônia,2009,Mediana,47.8
+Rondônia,2009,75 percentil,54.8
+Rondônia,2009,Máximo,93.9
+Roraima,2009,Mínimo,2.9
+Roraima,2009,25 percentil,5.15
+Roraima,2009,Mediana,11.6
+Roraima,2009,75 percentil,16.75
+Roraima,2009,Máximo,46.3
+Santa Catarina,2009,Mínimo,10.6
+Santa Catarina,2009,25 percentil,55.7
+Santa Catarina,2009,Mediana,70.3
+Santa Catarina,2009,75 percentil,79.4
+Santa Catarina,2009,Máximo,98.8
+Sergipe,2009,Mínimo,0.7
+Sergipe,2009,25 percentil,10.6
+Sergipe,2009,Mediana,27.6
+Sergipe,2009,75 percentil,35.1
+Sergipe,2009,Máximo,83.9
+São Paulo,2009,Mínimo,0.5
+São Paulo,2009,25 percentil,70.975
+São Paulo,2009,Mediana,80.7
+São Paulo,2009,75 percentil,87.425
+São Paulo,2009,Máximo,100
+Tocantins,2009,Mínimo,9.2
+Tocantins,2009,25 percentil,28.925
+Tocantins,2009,Mediana,37.75
+Tocantins,2009,75 percentil,49.325
+Tocantins,2009,Máximo,90.8
+Acre,2010,Mínimo,3.8
+Acre,2010,25 percentil,11.625
+Acre,2010,Mediana,14.2
+Acre,2010,75 percentil,17.9
+Acre,2010,Máximo,42.9
+Alagoas,2010,Mínimo,7.5
+Alagoas,2010,25 percentil,19.125
+Alagoas,2010,Mediana,28.1
+Alagoas,2010,75 percentil,43.1
+Alagoas,2010,Máximo,81.3
+Amapá,2010,Mínimo,3.5
+Amapá,2010,25 percentil,13.75
+Amapá,2010,Mediana,21.4
+Amapá,2010,75 percentil,25
+Amapá,2010,Máximo,36.3
+Amazonas,2010,Mínimo,0.4
+Amazonas,2010,25 percentil,19
+Amazonas,2010,Mediana,24.2
+Amazonas,2010,75 percentil,37.4
+Amazonas,2010,Máximo,64.1
+Bahia,2010,Mínimo,2.7
+Bahia,2010,25 percentil,25.15
+Bahia,2010,Mediana,36.3
+Bahia,2010,75 percentil,47.9
+Bahia,2010,Máximo,98.6
+Ceará,2010,Mínimo,24.6
+Ceará,2010,25 percentil,53
+Ceará,2010,Mediana,65.7
+Ceará,2010,75 percentil,75.4
+Ceará,2010,Máximo,100
+Distrito Federal,2010,Mínimo,65
+Distrito Federal,2010,25 percentil,65
+Distrito Federal,2010,Mediana,65
+Distrito Federal,2010,75 percentil,65
+Distrito Federal,2010,Máximo,65
+Espírito Santo,2010,Mínimo,4.3
+Espírito Santo,2010,25 percentil,51.8
+Espírito Santo,2010,Mediana,69.05
+Espírito Santo,2010,75 percentil,78.4
+Espírito Santo,2010,Máximo,100
+Goiás,2010,Mínimo,12
+Goiás,2010,25 percentil,54.675
+Goiás,2010,Mediana,70.25
+Goiás,2010,75 percentil,82.875
+Goiás,2010,Máximo,99.6
+Maranhão,2010,Mínimo,0
+Maranhão,2010,25 percentil,10.55
+Maranhão,2010,Mediana,20.7
+Maranhão,2010,75 percentil,32.2
+Maranhão,2010,Máximo,98.7
+Mato Grosso,2010,Mínimo,29.8
+Mato Grosso,2010,25 percentil,55.5
+Mato Grosso,2010,Mediana,72.05
+Mato Grosso,2010,75 percentil,80.275
+Mato Grosso,2010,Máximo,98.3
+Mato Grosso do Sul,2010,Mínimo,17.9
+Mato Grosso do Sul,2010,25 percentil,40.8
+Mato Grosso do Sul,2010,Mediana,62.5
+Mato Grosso do Sul,2010,75 percentil,71.6
+Mato Grosso do Sul,2010,Máximo,98.3
+Minas Gerais,2010,Mínimo,18.6
+Minas Gerais,2010,25 percentil,58.975
+Minas Gerais,2010,Mediana,71.75
+Minas Gerais,2010,75 percentil,81.825
+Minas Gerais,2010,Máximo,100
+Paraná,2010,Mínimo,18.2
+Paraná,2010,25 percentil,69.525
+Paraná,2010,Mediana,80.7
+Paraná,2010,75 percentil,89.475
+Paraná,2010,Máximo,98.9
+Paraíba,2010,Mínimo,30
+Paraíba,2010,25 percentil,47.175
+Paraíba,2010,Mediana,60.75
+Paraíba,2010,75 percentil,68.725
+Paraíba,2010,Máximo,95.2
+Pará,2010,Mínimo,1.9
+Pará,2010,25 percentil,14.1
+Pará,2010,Mediana,24.8
+Pará,2010,75 percentil,33.2
+Pará,2010,Máximo,76.3
+Pernambuco,2010,Mínimo,4.9
+Pernambuco,2010,25 percentil,30.4
+Pernambuco,2010,Mediana,42.2
+Pernambuco,2010,75 percentil,55
+Pernambuco,2010,Máximo,86.4
+Piauí,2010,Mínimo,5.4
+Piauí,2010,25 percentil,22.35
+Piauí,2010,Mediana,35.8
+Piauí,2010,75 percentil,48.95
+Piauí,2010,Máximo,74.2
+Rio Grande do Norte,2010,Mínimo,13.2
+Rio Grande do Norte,2010,25 percentil,32.2
+Rio Grande do Norte,2010,Mediana,47.4
+Rio Grande do Norte,2010,75 percentil,59.75
+Rio Grande do Norte,2010,Máximo,98.5
+Rio Grande do Sul,2010,Mínimo,30.8
+Rio Grande do Sul,2010,25 percentil,68.6
+Rio Grande do Sul,2010,Mediana,79
+Rio Grande do Sul,2010,75 percentil,87.05
+Rio Grande do Sul,2010,Máximo,100
+Rio de Janeiro,2010,Mínimo,2.7
+Rio de Janeiro,2010,25 percentil,51.15
+Rio de Janeiro,2010,Mediana,65.3
+Rio de Janeiro,2010,75 percentil,79.75
+Rio de Janeiro,2010,Máximo,92.1
+Rondônia,2010,Mínimo,0.1
+Rondônia,2010,25 percentil,34.9
+Rondônia,2010,Mediana,55
+Rondônia,2010,75 percentil,60.4
+Rondônia,2010,Máximo,95.6
+Roraima,2010,Mínimo,2.3
+Roraima,2010,25 percentil,10.025
+Roraima,2010,Mediana,18.8
+Roraima,2010,75 percentil,25.85
+Roraima,2010,Máximo,44.2
+Santa Catarina,2010,Mínimo,4.6
+Santa Catarina,2010,25 percentil,58.55
+Santa Catarina,2010,Mediana,72.7
+Santa Catarina,2010,75 percentil,83.3
+Santa Catarina,2010,Máximo,97.7
+Sergipe,2010,Mínimo,0
+Sergipe,2010,25 percentil,18.85
+Sergipe,2010,Mediana,28.05
+Sergipe,2010,75 percentil,34.575
+Sergipe,2010,Máximo,81.5
+São Paulo,2010,Mínimo,1.5
+São Paulo,2010,25 percentil,73.2
+São Paulo,2010,Mediana,80.8
+São Paulo,2010,75 percentil,88.85
+São Paulo,2010,Máximo,100
+Tocantins,2010,Mínimo,8.7
+Tocantins,2010,25 percentil,31.9
+Tocantins,2010,Mediana,41.4
+Tocantins,2010,75 percentil,52.95
+Tocantins,2010,Máximo,82.7
+Acre,2011,Mínimo,2.4
+Acre,2011,25 percentil,9.5
+Acre,2011,Mediana,14.7
+Acre,2011,75 percentil,27.95
+Acre,2011,Máximo,40.6
+Alagoas,2011,Mínimo,11.2
+Alagoas,2011,25 percentil,28.45
+Alagoas,2011,Mediana,37.6
+Alagoas,2011,75 percentil,42.4
+Alagoas,2011,Máximo,54.4
+Amapá,2011,Mínimo,5.6
+Amapá,2011,25 percentil,19.65
+Amapá,2011,Mediana,27.1
+Amapá,2011,75 percentil,27.65
+Amapá,2011,Máximo,34.9
+Amazonas,2011,Mínimo,12.9
+Amazonas,2011,25 percentil,24.025
+Amazonas,2011,Mediana,31.5
+Amazonas,2011,75 percentil,39.1
+Amazonas,2011,Máximo,80.2
+Bahia,2011,Mínimo,2.4
+Bahia,2011,25 percentil,33.4
+Bahia,2011,Mediana,44.25
+Bahia,2011,75 percentil,53.225
+Bahia,2011,Máximo,84
+Ceará,2011,Mínimo,33.9
+Ceará,2011,25 percentil,56.5
+Ceará,2011,Mediana,69.35
+Ceará,2011,75 percentil,77.375
+Ceará,2011,Máximo,99.8
+Distrito Federal,2011,Mínimo,62.8
+Distrito Federal,2011,25 percentil,62.8
+Distrito Federal,2011,Mediana,62.8
+Distrito Federal,2011,75 percentil,62.8
+Distrito Federal,2011,Máximo,62.8
+Espírito Santo,2011,Mínimo,33.3
+Espírito Santo,2011,25 percentil,51.125
+Espírito Santo,2011,Mediana,65.6
+Espírito Santo,2011,75 percentil,72.45
+Espírito Santo,2011,Máximo,79.9
+Goiás,2011,Mínimo,28.9
+Goiás,2011,25 percentil,56.5
+Goiás,2011,Mediana,65.1
+Goiás,2011,75 percentil,76
+Goiás,2011,Máximo,98.1
+Maranhão,2011,Mínimo,1.3
+Maranhão,2011,25 percentil,16.425
+Maranhão,2011,Mediana,25.6
+Maranhão,2011,75 percentil,36.65
+Maranhão,2011,Máximo,90.3
+Mato Grosso,2011,Mínimo,30
+Mato Grosso,2011,25 percentil,57.5
+Mato Grosso,2011,Mediana,68.1
+Mato Grosso,2011,75 percentil,74.7
+Mato Grosso,2011,Máximo,92.3
+Mato Grosso do Sul,2011,Mínimo,19.7
+Mato Grosso do Sul,2011,25 percentil,49.25
+Mato Grosso do Sul,2011,Mediana,60.8
+Mato Grosso do Sul,2011,75 percentil,69.175
+Mato Grosso do Sul,2011,Máximo,94.6
+Minas Gerais,2011,Mínimo,22.3
+Minas Gerais,2011,25 percentil,63.4
+Minas Gerais,2011,Mediana,74.3
+Minas Gerais,2011,75 percentil,82.3
+Minas Gerais,2011,Máximo,100
+Paraná,2011,Mínimo,27.2
+Paraná,2011,25 percentil,69.8
+Paraná,2011,Mediana,83.2
+Paraná,2011,75 percentil,91.8
+Paraná,2011,Máximo,100
+Paraíba,2011,Mínimo,29.8
+Paraíba,2011,25 percentil,51.9
+Paraíba,2011,Mediana,60
+Paraíba,2011,75 percentil,67.75
+Paraíba,2011,Máximo,94.4
+Pará,2011,Mínimo,4.9
+Pará,2011,25 percentil,19.3
+Pará,2011,Mediana,30.3
+Pará,2011,75 percentil,38.9
+Pará,2011,Máximo,71.9
+Pernambuco,2011,Mínimo,19.5
+Pernambuco,2011,25 percentil,44.95
+Pernambuco,2011,Mediana,53.55
+Pernambuco,2011,75 percentil,58.6
+Pernambuco,2011,Máximo,74.2
+Piauí,2011,Mínimo,15.2
+Piauí,2011,25 percentil,33.975
+Piauí,2011,Mediana,42.85
+Piauí,2011,75 percentil,49.075
+Piauí,2011,Máximo,75.3
+Rio Grande do Norte,2011,Mínimo,21.9
+Rio Grande do Norte,2011,25 percentil,44.15
+Rio Grande do Norte,2011,Mediana,51.2
+Rio Grande do Norte,2011,75 percentil,62.75
+Rio Grande do Norte,2011,Máximo,89.6
+Rio Grande do Sul,2011,Mínimo,28.2
+Rio Grande do Sul,2011,25 percentil,67.825
+Rio Grande do Sul,2011,Mediana,77.45
+Rio Grande do Sul,2011,75 percentil,83.975
+Rio Grande do Sul,2011,Máximo,99.4
+Rio de Janeiro,2011,Mínimo,14.8
+Rio de Janeiro,2011,25 percentil,52.9
+Rio de Janeiro,2011,Mediana,66.1
+Rio de Janeiro,2011,75 percentil,77.6
+Rio de Janeiro,2011,Máximo,97.1
+Rondônia,2011,Mínimo,0.1
+Rondônia,2011,25 percentil,51.35
+Rondônia,2011,Mediana,57.1
+Rondônia,2011,75 percentil,67.9
+Rondônia,2011,Máximo,78.6
+Roraima,2011,Mínimo,3.4
+Roraima,2011,25 percentil,4.9
+Roraima,2011,Mediana,13
+Roraima,2011,75 percentil,29.8
+Roraima,2011,Máximo,43.6
+Santa Catarina,2011,Mínimo,13.2
+Santa Catarina,2011,25 percentil,56.425
+Santa Catarina,2011,Mediana,72.5
+Santa Catarina,2011,75 percentil,80.5
+Santa Catarina,2011,Máximo,95.2
+Sergipe,2011,Mínimo,32.1
+Sergipe,2011,25 percentil,34.625
+Sergipe,2011,Mediana,40.1
+Sergipe,2011,75 percentil,47.125
+Sergipe,2011,Máximo,55
+São Paulo,2011,Mínimo,44.9
+São Paulo,2011,25 percentil,73.6
+São Paulo,2011,Mediana,81.4
+São Paulo,2011,75 percentil,87.8
+São Paulo,2011,Máximo,99.7
+Tocantins,2011,Mínimo,8.7
+Tocantins,2011,25 percentil,34.925
+Tocantins,2011,Mediana,43.55
+Tocantins,2011,75 percentil,54.175
+Tocantins,2011,Máximo,66
+Acre,2012,Mínimo,3.3
+Acre,2012,25 percentil,12.25
+Acre,2012,Mediana,18.8
+Acre,2012,75 percentil,30.1
+Acre,2012,Máximo,44.3
+Alagoas,2012,Mínimo,12.4
+Alagoas,2012,25 percentil,27.8
+Alagoas,2012,Mediana,42
+Alagoas,2012,75 percentil,50.6
+Alagoas,2012,Máximo,61.3
+Amapá,2012,Mínimo,4.5
+Amapá,2012,25 percentil,15.75
+Amapá,2012,Mediana,19.7
+Amapá,2012,75 percentil,28.25
+Amapá,2012,Máximo,34.1
+Amazonas,2012,Mínimo,12.5
+Amazonas,2012,25 percentil,27
+Amazonas,2012,Mediana,34.45
+Amazonas,2012,75 percentil,41.925
+Amazonas,2012,Máximo,96.1
+Bahia,2012,Mínimo,6.5
+Bahia,2012,25 percentil,38.25
+Bahia,2012,Mediana,48.35
+Bahia,2012,75 percentil,56.275
+Bahia,2012,Máximo,81.1
+Ceará,2012,Mínimo,26.4
+Ceará,2012,25 percentil,62
+Ceará,2012,Mediana,71.7
+Ceará,2012,75 percentil,77.45
+Ceará,2012,Máximo,99.7
+Distrito Federal,2012,Mínimo,64
+Distrito Federal,2012,25 percentil,64
+Distrito Federal,2012,Mediana,64
+Distrito Federal,2012,75 percentil,64
+Distrito Federal,2012,Máximo,64
+Espírito Santo,2012,Mínimo,0
+Espírito Santo,2012,25 percentil,53.9
+Espírito Santo,2012,Mediana,68
+Espírito Santo,2012,75 percentil,74.9
+Espírito Santo,2012,Máximo,81.9
+Goiás,2012,Mínimo,0.6
+Goiás,2012,25 percentil,54.975
+Goiás,2012,Mediana,63.9
+Goiás,2012,75 percentil,73.15
+Goiás,2012,Máximo,96
+Maranhão,2012,Mínimo,0
+Maranhão,2012,25 percentil,19.15
+Maranhão,2012,Mediana,28.05
+Maranhão,2012,75 percentil,39.375
+Maranhão,2012,Máximo,90.9
+Mato Grosso,2012,Mínimo,30.9
+Mato Grosso,2012,25 percentil,61
+Mato Grosso,2012,Mediana,66.8
+Mato Grosso,2012,75 percentil,73.375
+Mato Grosso,2012,Máximo,98.2
+Mato Grosso do Sul,2012,Mínimo,15.3
+Mato Grosso do Sul,2012,25 percentil,45.7
+Mato Grosso do Sul,2012,Mediana,58.5
+Mato Grosso do Sul,2012,75 percentil,67.5
+Mato Grosso do Sul,2012,Máximo,86.2
+Minas Gerais,2012,Mínimo,34.9
+Minas Gerais,2012,25 percentil,65.6
+Minas Gerais,2012,Mediana,73.9
+Minas Gerais,2012,75 percentil,82.4
+Minas Gerais,2012,Máximo,99.4
+Paraná,2012,Mínimo,16.6
+Paraná,2012,25 percentil,69.9
+Paraná,2012,Mediana,78
+Paraná,2012,75 percentil,83.8
+Paraná,2012,Máximo,98.1
+Paraíba,2012,Mínimo,32
+Paraíba,2012,25 percentil,54
+Paraíba,2012,Mediana,61.7
+Paraíba,2012,75 percentil,74.7
+Paraíba,2012,Máximo,97.4
+Pará,2012,Mínimo,3.5
+Pará,2012,25 percentil,23.875
+Pará,2012,Mediana,34.65
+Pará,2012,75 percentil,41.875
+Pará,2012,Máximo,64.8
+Pernambuco,2012,Mínimo,20.5
+Pernambuco,2012,25 percentil,49.7
+Pernambuco,2012,Mediana,57.9
+Pernambuco,2012,75 percentil,65.3
+Pernambuco,2012,Máximo,88.7
+Piauí,2012,Mínimo,18.1
+Piauí,2012,25 percentil,40.9
+Piauí,2012,Mediana,48
+Piauí,2012,75 percentil,54.125
+Piauí,2012,Máximo,68.8
+Rio Grande do Norte,2012,Mínimo,29.9
+Rio Grande do Norte,2012,25 percentil,49.75
+Rio Grande do Norte,2012,Mediana,57.1
+Rio Grande do Norte,2012,75 percentil,69.1
+Rio Grande do Norte,2012,Máximo,83.1
+Rio Grande do Sul,2012,Mínimo,25.8
+Rio Grande do Sul,2012,25 percentil,69.45
+Rio Grande do Sul,2012,Mediana,78
+Rio Grande do Sul,2012,75 percentil,85.85
+Rio Grande do Sul,2012,Máximo,98.8
+Rio de Janeiro,2012,Mínimo,30.9
+Rio de Janeiro,2012,25 percentil,51.3
+Rio de Janeiro,2012,Mediana,63.3
+Rio de Janeiro,2012,75 percentil,73.9
+Rio de Janeiro,2012,Máximo,89.3
+Rondônia,2012,Mínimo,13.8
+Rondônia,2012,25 percentil,55.05
+Rondônia,2012,Mediana,61.4
+Rondônia,2012,75 percentil,67.3
+Rondônia,2012,Máximo,73.7
+Roraima,2012,Mínimo,2.4
+Roraima,2012,25 percentil,5.525
+Roraima,2012,Mediana,11.2
+Roraima,2012,75 percentil,22.85
+Roraima,2012,Máximo,41.7
+Santa Catarina,2012,Mínimo,39
+Santa Catarina,2012,25 percentil,62.3
+Santa Catarina,2012,Mediana,70.7
+Santa Catarina,2012,75 percentil,77.1
+Santa Catarina,2012,Máximo,96.4
+Sergipe,2012,Mínimo,20
+Sergipe,2012,25 percentil,43.2
+Sergipe,2012,Mediana,46.6
+Sergipe,2012,75 percentil,51
+Sergipe,2012,Máximo,55.3
+São Paulo,2012,Mínimo,36.8
+São Paulo,2012,25 percentil,72.7
+São Paulo,2012,Mediana,78.8
+São Paulo,2012,75 percentil,84.5
+São Paulo,2012,Máximo,98.1
+Tocantins,2012,Mínimo,15.9
+Tocantins,2012,25 percentil,43.9
+Tocantins,2012,Mediana,48.1
+Tocantins,2012,75 percentil,56.7
+Tocantins,2012,Máximo,62.5
+Acre,2013,Mínimo,1.2
+Acre,2013,25 percentil,12.325
+Acre,2013,Mediana,17.2
+Acre,2013,75 percentil,38.125
+Acre,2013,Máximo,46.6
+Alagoas,2013,Mínimo,8.8
+Alagoas,2013,25 percentil,30.45
+Alagoas,2013,Mediana,43.5
+Alagoas,2013,75 percentil,50.075
+Alagoas,2013,Máximo,78.9
+Amapá,2013,Mínimo,9
+Amapá,2013,25 percentil,16.775
+Amapá,2013,Mediana,25.1
+Amapá,2013,75 percentil,29.6
+Amapá,2013,Máximo,33
+Amazonas,2013,Mínimo,8.6
+Amazonas,2013,25 percentil,27.05
+Amazonas,2013,Mediana,35.5
+Amazonas,2013,75 percentil,42.7
+Amazonas,2013,Máximo,93.9
+Bahia,2013,Mínimo,9.7
+Bahia,2013,25 percentil,39.1
+Bahia,2013,Mediana,48.85
+Bahia,2013,75 percentil,56.4
+Bahia,2013,Máximo,84.6
+Ceará,2013,Mínimo,31.9
+Ceará,2013,25 percentil,59.8
+Ceará,2013,Mediana,70.45
+Ceará,2013,75 percentil,77.05
+Ceará,2013,Máximo,99.1
+Distrito Federal,2013,Mínimo,62.8
+Distrito Federal,2013,25 percentil,62.8
+Distrito Federal,2013,Mediana,62.8
+Distrito Federal,2013,75 percentil,62.8
+Distrito Federal,2013,Máximo,62.8
+Espírito Santo,2013,Mínimo,32
+Espírito Santo,2013,25 percentil,52.5
+Espírito Santo,2013,Mediana,67.6
+Espírito Santo,2013,75 percentil,73.3
+Espírito Santo,2013,Máximo,79.9
+Goiás,2013,Mínimo,11.9
+Goiás,2013,25 percentil,53.5
+Goiás,2013,Mediana,64.2
+Goiás,2013,75 percentil,72.9
+Goiás,2013,Máximo,98
+Maranhão,2013,Mínimo,1.4
+Maranhão,2013,25 percentil,18
+Maranhão,2013,Mediana,27.1
+Maranhão,2013,75 percentil,40.5
+Maranhão,2013,Máximo,90.4
+Mato Grosso,2013,Mínimo,21.1
+Mato Grosso,2013,25 percentil,56.85
+Mato Grosso,2013,Mediana,65.5
+Mato Grosso,2013,75 percentil,72
+Mato Grosso,2013,Máximo,91.8
+Mato Grosso do Sul,2013,Mínimo,13
+Mato Grosso do Sul,2013,25 percentil,51.55
+Mato Grosso do Sul,2013,Mediana,60.35
+Mato Grosso do Sul,2013,75 percentil,69.975
+Mato Grosso do Sul,2013,Máximo,82.4
+Minas Gerais,2013,Mínimo,28
+Minas Gerais,2013,25 percentil,65.85
+Minas Gerais,2013,Mediana,73.7
+Minas Gerais,2013,75 percentil,81.35
+Minas Gerais,2013,Máximo,99
+Paraná,2013,Mínimo,25.4
+Paraná,2013,25 percentil,72
+Paraná,2013,Mediana,79.4
+Paraná,2013,75 percentil,85.775
+Paraná,2013,Máximo,98.4
+Paraíba,2013,Mínimo,35.8
+Paraíba,2013,25 percentil,56.7
+Paraíba,2013,Mediana,64.8
+Paraíba,2013,75 percentil,73.7
+Paraíba,2013,Máximo,87.9
+Pará,2013,Mínimo,11.9
+Pará,2013,25 percentil,25.95
+Pará,2013,Mediana,36.1
+Pará,2013,75 percentil,44.425
+Pará,2013,Máximo,81.8
+Pernambuco,2013,Mínimo,28.4
+Pernambuco,2013,25 percentil,53.9
+Pernambuco,2013,Mediana,61.8
+Pernambuco,2013,75 percentil,69.7
+Pernambuco,2013,Máximo,86.9
+Piauí,2013,Mínimo,26.2
+Piauí,2013,25 percentil,40.775
+Piauí,2013,Mediana,48.45
+Piauí,2013,75 percentil,56.95
+Piauí,2013,Máximo,72.4
+Rio Grande do Norte,2013,Mínimo,35.5
+Rio Grande do Norte,2013,25 percentil,53.3
+Rio Grande do Norte,2013,Mediana,61.1
+Rio Grande do Norte,2013,75 percentil,67.75
+Rio Grande do Norte,2013,Máximo,79.4
+Rio Grande do Sul,2013,Mínimo,22.1
+Rio Grande do Sul,2013,25 percentil,68.5
+Rio Grande do Sul,2013,Mediana,77.5
+Rio Grande do Sul,2013,75 percentil,83.3
+Rio Grande do Sul,2013,Máximo,96.1
+Rio de Janeiro,2013,Mínimo,29.1
+Rio de Janeiro,2013,25 percentil,49.4
+Rio de Janeiro,2013,Mediana,62.1
+Rio de Janeiro,2013,75 percentil,73.75
+Rio de Janeiro,2013,Máximo,84.5
+Rondônia,2013,Mínimo,30.1
+Rondônia,2013,25 percentil,56.8
+Rondônia,2013,Mediana,63.65
+Rondônia,2013,75 percentil,67.875
+Rondônia,2013,Máximo,75.8
+Roraima,2013,Mínimo,2.6
+Roraima,2013,25 percentil,7.825
+Roraima,2013,Mediana,16.5
+Roraima,2013,75 percentil,25.35
+Roraima,2013,Máximo,42.1
+Santa Catarina,2013,Mínimo,43.3
+Santa Catarina,2013,25 percentil,61.925
+Santa Catarina,2013,Mediana,72
+Santa Catarina,2013,75 percentil,78.425
+Santa Catarina,2013,Máximo,92.3
+Sergipe,2013,Mínimo,38.5
+Sergipe,2013,25 percentil,43.425
+Sergipe,2013,Mediana,48.25
+Sergipe,2013,75 percentil,52.2
+Sergipe,2013,Máximo,54.4
+São Paulo,2013,Mínimo,34.3
+São Paulo,2013,25 percentil,72.35
+São Paulo,2013,Mediana,78.4
+São Paulo,2013,75 percentil,84.35
+São Paulo,2013,Máximo,100
+Tocantins,2013,Mínimo,16.7
+Tocantins,2013,25 percentil,45.35
+Tocantins,2013,Mediana,50.3
+Tocantins,2013,75 percentil,55.55
+Tocantins,2013,Máximo,66
+Acre,2014,Mínimo,3.8
+Acre,2014,25 percentil,13.9
+Acre,2014,Mediana,20.9
+Acre,2014,75 percentil,35.9
+Acre,2014,Máximo,57.4
+Alagoas,2014,Mínimo,21.4
+Alagoas,2014,25 percentil,41.5
+Alagoas,2014,Mediana,46
+Alagoas,2014,75 percentil,54.55
+Alagoas,2014,Máximo,90
+Amapá,2014,Mínimo,16.1
+Amapá,2014,25 percentil,22.8
+Amapá,2014,Mediana,31.8
+Amapá,2014,75 percentil,34.05
+Amapá,2014,Máximo,37.9
+Amazonas,2014,Mínimo,13
+Amazonas,2014,25 percentil,33.45
+Amazonas,2014,Mediana,39.95
+Amazonas,2014,75 percentil,49.05
+Amazonas,2014,Máximo,65.7
+Bahia,2014,Mínimo,18.9
+Bahia,2014,25 percentil,45.15
+Bahia,2014,Mediana,54.7
+Bahia,2014,75 percentil,62.95
+Bahia,2014,Máximo,88.7
+Ceará,2014,Mínimo,45.9
+Ceará,2014,25 percentil,68.15
+Ceará,2014,Mediana,73.8
+Ceará,2014,75 percentil,80.6
+Ceará,2014,Máximo,99.4
+Distrito Federal,2014,Mínimo,65.2
+Distrito Federal,2014,25 percentil,65.2
+Distrito Federal,2014,Mediana,65.2
+Distrito Federal,2014,75 percentil,65.2
+Distrito Federal,2014,Máximo,65.2
+Espírito Santo,2014,Mínimo,38.7
+Espírito Santo,2014,25 percentil,58.9
+Espírito Santo,2014,Mediana,69.2
+Espírito Santo,2014,75 percentil,76.175
+Espírito Santo,2014,Máximo,79.9
+Goiás,2014,Mínimo,1.4
+Goiás,2014,25 percentil,57.2
+Goiás,2014,Mediana,65.35
+Goiás,2014,75 percentil,76.35
+Goiás,2014,Máximo,98.2
+Maranhão,2014,Mínimo,0
+Maranhão,2014,25 percentil,24.775
+Maranhão,2014,Mediana,34.55
+Maranhão,2014,75 percentil,44.9
+Maranhão,2014,Máximo,95
+Mato Grosso,2014,Mínimo,9.1
+Mato Grosso,2014,25 percentil,58.3
+Mato Grosso,2014,Mediana,65.5
+Mato Grosso,2014,75 percentil,73.1
+Mato Grosso,2014,Máximo,98.4
+Mato Grosso do Sul,2014,Mínimo,25.2
+Mato Grosso do Sul,2014,25 percentil,53.3
+Mato Grosso do Sul,2014,Mediana,68.4
+Mato Grosso do Sul,2014,75 percentil,72.95
+Mato Grosso do Sul,2014,Máximo,87.4
+Minas Gerais,2014,Mínimo,49.9
+Minas Gerais,2014,25 percentil,69.15
+Minas Gerais,2014,Mediana,76.6
+Minas Gerais,2014,75 percentil,83.4
+Minas Gerais,2014,Máximo,100
+Paraná,2014,Mínimo,29.4
+Paraná,2014,25 percentil,74.8
+Paraná,2014,Mediana,82
+Paraná,2014,75 percentil,86.8
+Paraná,2014,Máximo,99.2
+Paraíba,2014,Mínimo,33
+Paraíba,2014,25 percentil,61.825
+Paraíba,2014,Mediana,68.5
+Paraíba,2014,75 percentil,72.275
+Paraíba,2014,Máximo,87.5
+Pará,2014,Mínimo,4.8
+Pará,2014,25 percentil,28.55
+Pará,2014,Mediana,39.05
+Pará,2014,75 percentil,47.925
+Pará,2014,Máximo,83.5
+Pernambuco,2014,Mínimo,35.3
+Pernambuco,2014,25 percentil,58.85
+Pernambuco,2014,Mediana,66.75
+Pernambuco,2014,75 percentil,73.85
+Pernambuco,2014,Máximo,96.8
+Piauí,2014,Mínimo,25
+Piauí,2014,25 percentil,46.9
+Piauí,2014,Mediana,55
+Piauí,2014,75 percentil,62.4
+Piauí,2014,Máximo,70
+Rio Grande do Norte,2014,Mínimo,38.4
+Rio Grande do Norte,2014,25 percentil,55.475
+Rio Grande do Norte,2014,Mediana,63.05
+Rio Grande do Norte,2014,75 percentil,72.55
+Rio Grande do Norte,2014,Máximo,89.1
+Rio Grande do Sul,2014,Mínimo,21.8
+Rio Grande do Sul,2014,25 percentil,69.1
+Rio Grande do Sul,2014,Mediana,77.9
+Rio Grande do Sul,2014,75 percentil,84.6
+Rio Grande do Sul,2014,Máximo,95.2
+Rio de Janeiro,2014,Mínimo,34.1
+Rio de Janeiro,2014,25 percentil,51.875
+Rio de Janeiro,2014,Mediana,67.05
+Rio de Janeiro,2014,75 percentil,74.825
+Rio de Janeiro,2014,Máximo,88
+Rondônia,2014,Mínimo,35.8
+Rondônia,2014,25 percentil,59.65
+Rondônia,2014,Mediana,63.4
+Rondônia,2014,75 percentil,66.8
+Rondônia,2014,Máximo,79
+Roraima,2014,Mínimo,2.3
+Roraima,2014,25 percentil,8.675
+Roraima,2014,Mediana,15.3
+Roraima,2014,75 percentil,27.575
+Roraima,2014,Máximo,47.7
+Santa Catarina,2014,Mínimo,43.2
+Santa Catarina,2014,25 percentil,65.1
+Santa Catarina,2014,Mediana,73
+Santa Catarina,2014,75 percentil,78.825
+Santa Catarina,2014,Máximo,95.5
+Sergipe,2014,Mínimo,28.7
+Sergipe,2014,25 percentil,49.225
+Sergipe,2014,Mediana,51.2
+Sergipe,2014,75 percentil,54.6
+Sergipe,2014,Máximo,56.3
+São Paulo,2014,Mínimo,2.9
+São Paulo,2014,25 percentil,74.825
+São Paulo,2014,Mediana,80.05
+São Paulo,2014,75 percentil,85.3
+São Paulo,2014,Máximo,98.7
+Tocantins,2014,Mínimo,12.4
+Tocantins,2014,25 percentil,47.1
+Tocantins,2014,Mediana,55.2
+Tocantins,2014,75 percentil,58.9
+Tocantins,2014,Máximo,66.7
+Acre,2015,Mínimo,14.7
+Acre,2015,25 percentil,17
+Acre,2015,Mediana,20
+Acre,2015,75 percentil,43.3
+Acre,2015,Máximo,58.3
+Alagoas,2015,Mínimo,18.7
+Alagoas,2015,25 percentil,42.7
+Alagoas,2015,Mediana,51
+Alagoas,2015,75 percentil,57.05
+Alagoas,2015,Máximo,97.9
+Amapá,2015,Mínimo,13.9
+Amapá,2015,25 percentil,32.1
+Amapá,2015,Mediana,35.8
+Amapá,2015,75 percentil,37.175
+Amapá,2015,Máximo,43.2
+Amazonas,2015,Mínimo,17.2
+Amazonas,2015,25 percentil,36.25
+Amazonas,2015,Mediana,44.65
+Amazonas,2015,75 percentil,52.375
+Amazonas,2015,Máximo,70
+Bahia,2015,Mínimo,20.4
+Bahia,2015,25 percentil,47.3
+Bahia,2015,Mediana,58
+Bahia,2015,75 percentil,67.3
+Bahia,2015,Máximo,95.6
+Ceará,2015,Mínimo,51
+Ceará,2015,25 percentil,68.35
+Ceará,2015,Mediana,77.05
+Ceará,2015,75 percentil,82.775
+Ceará,2015,Máximo,98.8
+Distrito Federal,2015,Mínimo,68
+Distrito Federal,2015,25 percentil,68
+Distrito Federal,2015,Mediana,68
+Distrito Federal,2015,75 percentil,68
+Distrito Federal,2015,Máximo,68
+Espírito Santo,2015,Mínimo,37.6
+Espírito Santo,2015,25 percentil,62.5
+Espírito Santo,2015,Mediana,73.9
+Espírito Santo,2015,75 percentil,77.9
+Espírito Santo,2015,Máximo,86.8
+Goiás,2015,Mínimo,22.1
+Goiás,2015,25 percentil,56.3
+Goiás,2015,Mediana,67.8
+Goiás,2015,75 percentil,79.8
+Goiás,2015,Máximo,97.2
+Maranhão,2015,Mínimo,0
+Maranhão,2015,25 percentil,28.65
+Maranhão,2015,Mediana,37.25
+Maranhão,2015,75 percentil,49.85
+Maranhão,2015,Máximo,96
+Mato Grosso,2015,Mínimo,25.4
+Mato Grosso,2015,25 percentil,61.1
+Mato Grosso,2015,Mediana,68.3
+Mato Grosso,2015,75 percentil,74.8
+Mato Grosso,2015,Máximo,92.2
+Mato Grosso do Sul,2015,Mínimo,31.6
+Mato Grosso do Sul,2015,25 percentil,52.875
+Mato Grosso do Sul,2015,Mediana,63.1
+Mato Grosso do Sul,2015,75 percentil,71.375
+Mato Grosso do Sul,2015,Máximo,89
+Minas Gerais,2015,Mínimo,53.1
+Minas Gerais,2015,25 percentil,71.425
+Minas Gerais,2015,Mediana,78.35
+Minas Gerais,2015,75 percentil,84.375
+Minas Gerais,2015,Máximo,99.7
+Paraná,2015,Mínimo,30.1
+Paraná,2015,25 percentil,75.4
+Paraná,2015,Mediana,84.7
+Paraná,2015,75 percentil,89.4
+Paraná,2015,Máximo,99.2
+Paraíba,2015,Mínimo,47.9
+Paraíba,2015,25 percentil,65.65
+Paraíba,2015,Mediana,70.55
+Paraíba,2015,75 percentil,74.15
+Paraíba,2015,Máximo,90.1
+Pará,2015,Mínimo,7.6
+Pará,2015,25 percentil,31
+Pará,2015,Mediana,39.8
+Pará,2015,75 percentil,48.3
+Pará,2015,Máximo,97.1
+Pernambuco,2015,Mínimo,45.2
+Pernambuco,2015,25 percentil,61.5
+Pernambuco,2015,Mediana,68.5
+Pernambuco,2015,75 percentil,75.6
+Pernambuco,2015,Máximo,94.2
+Piauí,2015,Mínimo,28.7
+Piauí,2015,25 percentil,48
+Piauí,2015,Mediana,59.9
+Piauí,2015,75 percentil,64.95
+Piauí,2015,Máximo,91.7
+Rio Grande do Norte,2015,Mínimo,41.1
+Rio Grande do Norte,2015,25 percentil,56.8
+Rio Grande do Norte,2015,Mediana,65.35
+Rio Grande do Norte,2015,75 percentil,72.65
+Rio Grande do Norte,2015,Máximo,92.5
+Rio Grande do Sul,2015,Mínimo,33.2
+Rio Grande do Sul,2015,25 percentil,71.35
+Rio Grande do Sul,2015,Mediana,78.5
+Rio Grande do Sul,2015,75 percentil,85.4
+Rio Grande do Sul,2015,Máximo,97.7
+Rio de Janeiro,2015,Mínimo,39.5
+Rio de Janeiro,2015,25 percentil,53.1
+Rio de Janeiro,2015,Mediana,66.9
+Rio de Janeiro,2015,75 percentil,77.8
+Rio de Janeiro,2015,Máximo,87.1
+Rondônia,2015,Mínimo,41.3
+Rondônia,2015,25 percentil,65
+Rondônia,2015,Mediana,70.2
+Rondônia,2015,75 percentil,74
+Rondônia,2015,Máximo,77.2
+Roraima,2015,Mínimo,2.9
+Roraima,2015,25 percentil,9.35
+Roraima,2015,Mediana,23.1
+Roraima,2015,75 percentil,37.9
+Roraima,2015,Máximo,53.9
+Santa Catarina,2015,Mínimo,34.5
+Santa Catarina,2015,25 percentil,66.95
+Santa Catarina,2015,Mediana,74.8
+Santa Catarina,2015,75 percentil,80.5
+Santa Catarina,2015,Máximo,98.1
+Sergipe,2015,Mínimo,43.4
+Sergipe,2015,25 percentil,54
+Sergipe,2015,Mediana,55.7
+Sergipe,2015,75 percentil,58.9
+Sergipe,2015,Máximo,65.8
+São Paulo,2015,Mínimo,37.2
+São Paulo,2015,25 percentil,74.875
+São Paulo,2015,Mediana,80.65
+São Paulo,2015,75 percentil,85.6
+São Paulo,2015,Máximo,100
+Tocantins,2015,Mínimo,39
+Tocantins,2015,25 percentil,53
+Tocantins,2015,Mediana,56.3
+Tocantins,2015,75 percentil,60.3
+Tocantins,2015,Máximo,70.7
+Acre,2016,Mínimo,15.5
+Acre,2016,25 percentil,19.45
+Acre,2016,Mediana,32.75
+Acre,2016,75 percentil,46.775
+Acre,2016,Máximo,52.9
+Alagoas,2016,Mínimo,27.1
+Alagoas,2016,25 percentil,47.6
+Alagoas,2016,Mediana,55.9
+Alagoas,2016,75 percentil,63.6
+Alagoas,2016,Máximo,97.1
+Amapá,2016,Mínimo,11.3
+Amapá,2016,25 percentil,24.45
+Amapá,2016,Mediana,30.75
+Amapá,2016,75 percentil,34
+Amapá,2016,Máximo,45.4
+Amazonas,2016,Mínimo,18.6
+Amazonas,2016,25 percentil,36.1
+Amazonas,2016,Mediana,41
+Amazonas,2016,75 percentil,53.25
+Amazonas,2016,Máximo,76.8
+Bahia,2016,Mínimo,0.4
+Bahia,2016,25 percentil,49.3
+Bahia,2016,Mediana,59.3
+Bahia,2016,75 percentil,67.6
+Bahia,2016,Máximo,96.8
+Ceará,2016,Mínimo,48.3
+Ceará,2016,25 percentil,71.35
+Ceará,2016,Mediana,77.1
+Ceará,2016,75 percentil,81.85
+Ceará,2016,Máximo,98
+Distrito Federal,2016,Mínimo,69.6
+Distrito Federal,2016,25 percentil,69.6
+Distrito Federal,2016,Mediana,69.6
+Distrito Federal,2016,75 percentil,69.6
+Distrito Federal,2016,Máximo,69.6
+Espírito Santo,2016,Mínimo,48.7
+Espírito Santo,2016,25 percentil,67
+Espírito Santo,2016,Mediana,70.95
+Espírito Santo,2016,75 percentil,76.85
+Espírito Santo,2016,Máximo,87.7
+Goiás,2016,Mínimo,29
+Goiás,2016,25 percentil,59.425
+Goiás,2016,Mediana,69.85
+Goiás,2016,75 percentil,80.225
+Goiás,2016,Máximo,98.5
+Maranhão,2016,Mínimo,1
+Maranhão,2016,25 percentil,30.55
+Maranhão,2016,Mediana,38.8
+Maranhão,2016,75 percentil,51.5
+Maranhão,2016,Máximo,99.3
+Mato Grosso,2016,Mínimo,27.8
+Mato Grosso,2016,25 percentil,59.2
+Mato Grosso,2016,Mediana,70.1
+Mato Grosso,2016,75 percentil,76.3
+Mato Grosso,2016,Máximo,97.1
+Mato Grosso do Sul,2016,Mínimo,31.5
+Mato Grosso do Sul,2016,25 percentil,49.8
+Mato Grosso do Sul,2016,Mediana,62
+Mato Grosso do Sul,2016,75 percentil,74.5
+Mato Grosso do Sul,2016,Máximo,87.4
+Minas Gerais,2016,Mínimo,49.2
+Minas Gerais,2016,25 percentil,70.875
+Minas Gerais,2016,Mediana,78
+Minas Gerais,2016,75 percentil,84.85
+Minas Gerais,2016,Máximo,100
+Paraná,2016,Mínimo,39
+Paraná,2016,25 percentil,79.45
+Paraná,2016,Mediana,84.9
+Paraná,2016,75 percentil,89.75
+Paraná,2016,Máximo,99.2
+Paraíba,2016,Mínimo,46.5
+Paraíba,2016,25 percentil,65.175
+Paraíba,2016,Mediana,69.25
+Paraíba,2016,75 percentil,73.35
+Paraíba,2016,Máximo,84.5
+Pará,2016,Mínimo,9.3
+Pará,2016,25 percentil,31.9
+Pará,2016,Mediana,42.5
+Pará,2016,75 percentil,50.7
+Pará,2016,Máximo,84.6
+Pernambuco,2016,Mínimo,40
+Pernambuco,2016,25 percentil,61.1
+Pernambuco,2016,Mediana,69.9
+Pernambuco,2016,75 percentil,76.05
+Pernambuco,2016,Máximo,95
+Piauí,2016,Mínimo,31.2
+Piauí,2016,25 percentil,50.5
+Piauí,2016,Mediana,59.6
+Piauí,2016,75 percentil,65.3
+Piauí,2016,Máximo,92.2
+Rio Grande do Norte,2016,Mínimo,32.7
+Rio Grande do Norte,2016,25 percentil,59.95
+Rio Grande do Norte,2016,Mediana,68.8
+Rio Grande do Norte,2016,75 percentil,75.1
+Rio Grande do Norte,2016,Máximo,98.3
+Rio Grande do Sul,2016,Mínimo,36.3
+Rio Grande do Sul,2016,25 percentil,71
+Rio Grande do Sul,2016,Mediana,79.1
+Rio Grande do Sul,2016,75 percentil,85.5
+Rio Grande do Sul,2016,Máximo,97.2
+Rio de Janeiro,2016,Mínimo,45.1
+Rio de Janeiro,2016,25 percentil,53.75
+Rio de Janeiro,2016,Mediana,68.6
+Rio de Janeiro,2016,75 percentil,76.9
+Rio de Janeiro,2016,Máximo,89.8
+Rondônia,2016,Mínimo,41
+Rondônia,2016,25 percentil,65
+Rondônia,2016,Mediana,71.9
+Rondônia,2016,75 percentil,74.375
+Rondônia,2016,Máximo,84.7
+Roraima,2016,Mínimo,1.7
+Roraima,2016,25 percentil,6.95
+Roraima,2016,Mediana,11.3
+Roraima,2016,75 percentil,35.45
+Roraima,2016,Máximo,52.5
+Santa Catarina,2016,Mínimo,15.1
+Santa Catarina,2016,25 percentil,68.375
+Santa Catarina,2016,Mediana,75.8
+Santa Catarina,2016,75 percentil,80.425
+Santa Catarina,2016,Máximo,94.2
+Sergipe,2016,Mínimo,47.9
+Sergipe,2016,25 percentil,52.8
+Sergipe,2016,Mediana,56.3
+Sergipe,2016,75 percentil,59.7
+Sergipe,2016,Máximo,64.7
+São Paulo,2016,Mínimo,40.8
+São Paulo,2016,25 percentil,76.05
+São Paulo,2016,Mediana,81.5
+São Paulo,2016,75 percentil,86.15
+São Paulo,2016,Máximo,98
+Tocantins,2016,Mínimo,39.8
+Tocantins,2016,25 percentil,55.45
+Tocantins,2016,Mediana,58.4
+Tocantins,2016,75 percentil,66.3
+Tocantins,2016,Máximo,71.7
+Acre,2017,Mínimo,9.3
+Acre,2017,25 percentil,18.8
+Acre,2017,Mediana,20.8
+Acre,2017,75 percentil,49.9
+Acre,2017,Máximo,56.2
+Alagoas,2017,Mínimo,36
+Alagoas,2017,25 percentil,47.125
+Alagoas,2017,Mediana,55.4
+Alagoas,2017,75 percentil,70.6
+Alagoas,2017,Máximo,98.6
+Amapá,2017,Mínimo,14.2
+Amapá,2017,25 percentil,22.225
+Amapá,2017,Mediana,29.95
+Amapá,2017,75 percentil,37.3
+Amapá,2017,Máximo,50
+Amazonas,2017,Mínimo,15.1
+Amazonas,2017,25 percentil,38.6
+Amazonas,2017,Mediana,45.8
+Amazonas,2017,75 percentil,51.9
+Amazonas,2017,Máximo,75.5
+Bahia,2017,Mínimo,0
+Bahia,2017,25 percentil,50.95
+Bahia,2017,Mediana,60.5
+Bahia,2017,75 percentil,69.05
+Bahia,2017,Máximo,92.5
+Ceará,2017,Mínimo,49.2
+Ceará,2017,25 percentil,69.05
+Ceará,2017,Mediana,76.5
+Ceará,2017,75 percentil,83.925
+Ceará,2017,Máximo,93
+Distrito Federal,2017,Mínimo,69.2
+Distrito Federal,2017,25 percentil,69.2
+Distrito Federal,2017,Mediana,69.2
+Distrito Federal,2017,75 percentil,69.2
+Distrito Federal,2017,Máximo,69.2
+Espírito Santo,2017,Mínimo,43.6
+Espírito Santo,2017,25 percentil,65.6
+Espírito Santo,2017,Mediana,75.25
+Espírito Santo,2017,75 percentil,78.4
+Espírito Santo,2017,Máximo,87.8
+Goiás,2017,Mínimo,38.7
+Goiás,2017,25 percentil,60.1
+Goiás,2017,Mediana,73.1
+Goiás,2017,75 percentil,81.4
+Goiás,2017,Máximo,99.1
+Maranhão,2017,Mínimo,5.9
+Maranhão,2017,25 percentil,30.15
+Maranhão,2017,Mediana,38.3
+Maranhão,2017,75 percentil,54.225
+Maranhão,2017,Máximo,99.8
+Mato Grosso,2017,Mínimo,29.3
+Mato Grosso,2017,25 percentil,62.6
+Mato Grosso,2017,Mediana,70.8
+Mato Grosso,2017,75 percentil,78.275
+Mato Grosso,2017,Máximo,89.5
+Mato Grosso do Sul,2017,Mínimo,37.4
+Mato Grosso do Sul,2017,25 percentil,55.975
+Mato Grosso do Sul,2017,Mediana,65.75
+Mato Grosso do Sul,2017,75 percentil,76.075
+Mato Grosso do Sul,2017,Máximo,91.7
+Minas Gerais,2017,Mínimo,48.5
+Minas Gerais,2017,25 percentil,73.05
+Minas Gerais,2017,Mediana,79.35
+Minas Gerais,2017,75 percentil,85.1
+Minas Gerais,2017,Máximo,100
+Paraná,2017,Mínimo,46.5
+Paraná,2017,25 percentil,80.7
+Paraná,2017,Mediana,86
+Paraná,2017,75 percentil,90.1
+Paraná,2017,Máximo,100
+Paraíba,2017,Mínimo,50.9
+Paraíba,2017,25 percentil,63.725
+Paraíba,2017,Mediana,71.8
+Paraíba,2017,75 percentil,75
+Paraíba,2017,Máximo,85.3
+Pará,2017,Mínimo,8.6
+Pará,2017,25 percentil,31.4
+Pará,2017,Mediana,42.6
+Pará,2017,75 percentil,55.5
+Pará,2017,Máximo,92.9
+Pernambuco,2017,Mínimo,43.7
+Pernambuco,2017,25 percentil,60.9
+Pernambuco,2017,Mediana,70.5
+Pernambuco,2017,75 percentil,75.2
+Pernambuco,2017,Máximo,98.6
+Piauí,2017,Mínimo,35.9
+Piauí,2017,25 percentil,50.8
+Piauí,2017,Mediana,59.7
+Piauí,2017,75 percentil,67.6
+Piauí,2017,Máximo,74.1
+Rio Grande do Norte,2017,Mínimo,48.4
+Rio Grande do Norte,2017,25 percentil,61.8
+Rio Grande do Norte,2017,Mediana,72.6
+Rio Grande do Norte,2017,75 percentil,78.125
+Rio Grande do Norte,2017,Máximo,97.3
+Rio Grande do Sul,2017,Mínimo,36.3
+Rio Grande do Sul,2017,25 percentil,73.2
+Rio Grande do Sul,2017,Mediana,80.15
+Rio Grande do Sul,2017,75 percentil,87.35
+Rio Grande do Sul,2017,Máximo,99.6
+Rio de Janeiro,2017,Mínimo,41.9
+Rio de Janeiro,2017,25 percentil,56.9
+Rio de Janeiro,2017,Mediana,72.4
+Rio de Janeiro,2017,75 percentil,79.6
+Rio de Janeiro,2017,Máximo,92.2
+Rondônia,2017,Mínimo,40.3
+Rondônia,2017,25 percentil,67.975
+Rondônia,2017,Mediana,73.35
+Rondônia,2017,75 percentil,78.275
+Rondônia,2017,Máximo,84.2
+Roraima,2017,Mínimo,1.2
+Roraima,2017,25 percentil,9.5
+Roraima,2017,Mediana,19.2
+Roraima,2017,75 percentil,37.8
+Roraima,2017,Máximo,51.2
+Santa Catarina,2017,Mínimo,27.2
+Santa Catarina,2017,25 percentil,73.2
+Santa Catarina,2017,Mediana,77.7
+Santa Catarina,2017,75 percentil,82.05
+Santa Catarina,2017,Máximo,90.8
+Sergipe,2017,Mínimo,45.7
+Sergipe,2017,25 percentil,55.6
+Sergipe,2017,Mediana,57.2
+Sergipe,2017,75 percentil,62.1
+Sergipe,2017,Máximo,63.8
+São Paulo,2017,Mínimo,50
+São Paulo,2017,25 percentil,77.375
+São Paulo,2017,Mediana,82.95
+São Paulo,2017,75 percentil,87.825
+São Paulo,2017,Máximo,100
+Tocantins,2017,Mínimo,46.3
+Tocantins,2017,25 percentil,56.9
+Tocantins,2017,Mediana,60.2
+Tocantins,2017,75 percentil,65.4
+Tocantins,2017,Máximo,71.8
+Acre,2018,Mínimo,7.3
+Acre,2018,25 percentil,20.8
+Acre,2018,Mediana,28.1
+Acre,2018,75 percentil,47.95
+Acre,2018,Máximo,56.2
+Alagoas,2018,Mínimo,43.1
+Alagoas,2018,25 percentil,54.85
+Alagoas,2018,Mediana,64
+Alagoas,2018,75 percentil,76.1
+Alagoas,2018,Máximo,99.1
+Amapá,2018,Mínimo,10.8
+Amapá,2018,25 percentil,29
+Amapá,2018,Mediana,32.7
+Amapá,2018,75 percentil,38.2
+Amapá,2018,Máximo,53.6
+Amazonas,2018,Mínimo,18.3
+Amazonas,2018,25 percentil,40.9
+Amazonas,2018,Mediana,45.5
+Amazonas,2018,75 percentil,57.35
+Amazonas,2018,Máximo,77.2
+Bahia,2018,Mínimo,0
+Bahia,2018,25 percentil,57.4
+Bahia,2018,Mediana,67.4
+Bahia,2018,75 percentil,74.8
+Bahia,2018,Máximo,96.9
+Ceará,2018,Mínimo,44.3
+Ceará,2018,25 percentil,75.35
+Ceará,2018,Mediana,80.7
+Ceará,2018,75 percentil,85.6
+Ceará,2018,Máximo,98
+Distrito Federal,2018,Mínimo,70.6
+Distrito Federal,2018,25 percentil,70.6
+Distrito Federal,2018,Mediana,70.6
+Distrito Federal,2018,75 percentil,70.6
+Distrito Federal,2018,Máximo,70.6
+Espírito Santo,2018,Mínimo,38.3
+Espírito Santo,2018,25 percentil,65
+Espírito Santo,2018,Mediana,74.5
+Espírito Santo,2018,75 percentil,80.6
+Espírito Santo,2018,Máximo,87.5
+Goiás,2018,Mínimo,47.9
+Goiás,2018,25 percentil,65.7
+Goiás,2018,Mediana,75.2
+Goiás,2018,75 percentil,81.575
+Goiás,2018,Máximo,97.9
+Maranhão,2018,Mínimo,1.5
+Maranhão,2018,25 percentil,35.475
+Maranhão,2018,Mediana,46.85
+Maranhão,2018,75 percentil,59.725
+Maranhão,2018,Máximo,100
+Mato Grosso,2018,Mínimo,9.2
+Mato Grosso,2018,25 percentil,64.9
+Mato Grosso,2018,Mediana,72
+Mato Grosso,2018,75 percentil,78.9
+Mato Grosso,2018,Máximo,88.1
+Mato Grosso do Sul,2018,Mínimo,44.2
+Mato Grosso do Sul,2018,25 percentil,62.75
+Mato Grosso do Sul,2018,Mediana,70.4
+Mato Grosso do Sul,2018,75 percentil,79.175
+Mato Grosso do Sul,2018,Máximo,90.3
+Minas Gerais,2018,Mínimo,47.9
+Minas Gerais,2018,25 percentil,73.45
+Minas Gerais,2018,Mediana,79.6
+Minas Gerais,2018,75 percentil,85
+Minas Gerais,2018,Máximo,99.4
+Paraná,2018,Mínimo,57
+Paraná,2018,25 percentil,83.35
+Paraná,2018,Mediana,86.5
+Paraná,2018,75 percentil,90.4
+Paraná,2018,Máximo,98.5
+Paraíba,2018,Mínimo,48.2
+Paraíba,2018,25 percentil,69.65
+Paraíba,2018,Mediana,74.9
+Paraíba,2018,75 percentil,78.4
+Paraíba,2018,Máximo,85.8
+Pará,2018,Mínimo,9.4
+Pará,2018,25 percentil,33.925
+Pará,2018,Mediana,46.1
+Pará,2018,75 percentil,57.325
+Pará,2018,Máximo,79.5
+Pernambuco,2018,Mínimo,45
+Pernambuco,2018,25 percentil,67.5
+Pernambuco,2018,Mediana,74.1
+Pernambuco,2018,75 percentil,80.3
+Pernambuco,2018,Máximo,97.7
+Piauí,2018,Mínimo,36.6
+Piauí,2018,25 percentil,58.7
+Piauí,2018,Mediana,64.8
+Piauí,2018,75 percentil,70.3
+Piauí,2018,Máximo,79.5
+Rio Grande do Norte,2018,Mínimo,46.7
+Rio Grande do Norte,2018,25 percentil,64
+Rio Grande do Norte,2018,Mediana,75.8
+Rio Grande do Norte,2018,75 percentil,79.9
+Rio Grande do Norte,2018,Máximo,91.1
+Rio Grande do Sul,2018,Mínimo,47.5
+Rio Grande do Sul,2018,25 percentil,76.8
+Rio Grande do Sul,2018,Mediana,81.8
+Rio Grande do Sul,2018,75 percentil,87.1
+Rio Grande do Sul,2018,Máximo,97.3
+Rio de Janeiro,2018,Mínimo,30.1
+Rio de Janeiro,2018,25 percentil,59.25
+Rio de Janeiro,2018,Mediana,73.6
+Rio de Janeiro,2018,75 percentil,79.5
+Rio de Janeiro,2018,Máximo,92.9
+Rondônia,2018,Mínimo,37.6
+Rondônia,2018,25 percentil,72.3
+Rondônia,2018,Mediana,75.75
+Rondônia,2018,75 percentil,79.275
+Rondônia,2018,Máximo,85.9
+Roraima,2018,Mínimo,1.7
+Roraima,2018,25 percentil,9.8
+Roraima,2018,Mediana,16.2
+Roraima,2018,75 percentil,20.7
+Roraima,2018,Máximo,53.4
+Santa Catarina,2018,Mínimo,30.7
+Santa Catarina,2018,25 percentil,75.075
+Santa Catarina,2018,Mediana,79.05
+Santa Catarina,2018,75 percentil,84.225
+Santa Catarina,2018,Máximo,91
+Sergipe,2018,Mínimo,51.8
+Sergipe,2018,25 percentil,58.4
+Sergipe,2018,Mediana,63.9
+Sergipe,2018,75 percentil,64.6
+Sergipe,2018,Máximo,69.7
+São Paulo,2018,Mínimo,52
+São Paulo,2018,25 percentil,77.95
+São Paulo,2018,Mediana,84.2
+São Paulo,2018,75 percentil,88.05
+São Paulo,2018,Máximo,94.9
+Tocantins,2018,Mínimo,40.3
+Tocantins,2018,25 percentil,56.05
+Tocantins,2018,Mediana,65.6
+Tocantins,2018,75 percentil,67.35
+Tocantins,2018,Máximo,70.7
+Acre,2019,Mínimo,7.9
+Acre,2019,25 percentil,25.05
+Acre,2019,Mediana,31
+Acre,2019,75 percentil,53.85
+Acre,2019,Máximo,58.9
+Alagoas,2019,Mínimo,43
+Alagoas,2019,25 percentil,61.6
+Alagoas,2019,Mediana,71
+Alagoas,2019,75 percentil,78.7
+Alagoas,2019,Máximo,97.7
+Amapá,2019,Mínimo,18.5
+Amapá,2019,25 percentil,27.7
+Amapá,2019,Mediana,38.8
+Amapá,2019,75 percentil,41.3
+Amapá,2019,Máximo,78.5
+Amazonas,2019,Mínimo,24.6
+Amazonas,2019,25 percentil,42.375
+Amazonas,2019,Mediana,51.1
+Amazonas,2019,75 percentil,59.275
+Amazonas,2019,Máximo,91.3
+Bahia,2019,Mínimo,0
+Bahia,2019,25 percentil,63.45
+Bahia,2019,Mediana,70.1
+Bahia,2019,75 percentil,78.2
+Bahia,2019,Máximo,98.7
+Ceará,2019,Mínimo,47.2
+Ceará,2019,25 percentil,76.25
+Ceará,2019,Mediana,81.4
+Ceará,2019,75 percentil,86.1
+Ceará,2019,Máximo,97.2
+Distrito Federal,2019,Mínimo,71.8
+Distrito Federal,2019,25 percentil,71.8
+Distrito Federal,2019,Mediana,71.8
+Distrito Federal,2019,75 percentil,71.8
+Distrito Federal,2019,Máximo,71.8
+Espírito Santo,2019,Mínimo,40.9
+Espírito Santo,2019,25 percentil,67.7
+Espírito Santo,2019,Mediana,75.1
+Espírito Santo,2019,75 percentil,81.3
+Espírito Santo,2019,Máximo,88.5
+Goiás,2019,Mínimo,21.7
+Goiás,2019,25 percentil,67.35
+Goiás,2019,Mediana,75.7
+Goiás,2019,75 percentil,86.2
+Goiás,2019,Máximo,98.4
+Maranhão,2019,Mínimo,0.9
+Maranhão,2019,25 percentil,42.225
+Maranhão,2019,Mediana,51.65
+Maranhão,2019,75 percentil,63.1
+Maranhão,2019,Máximo,100
+Mato Grosso,2019,Mínimo,23.8
+Mato Grosso,2019,25 percentil,63.6
+Mato Grosso,2019,Mediana,73.3
+Mato Grosso,2019,75 percentil,81.3
+Mato Grosso,2019,Máximo,91.7
+Mato Grosso do Sul,2019,Mínimo,46.5
+Mato Grosso do Sul,2019,25 percentil,65.9
+Mato Grosso do Sul,2019,Mediana,72.5
+Mato Grosso do Sul,2019,75 percentil,81.7
+Mato Grosso do Sul,2019,Máximo,93.7
+Minas Gerais,2019,Mínimo,50.4
+Minas Gerais,2019,25 percentil,75.8
+Minas Gerais,2019,Mediana,81.7
+Minas Gerais,2019,75 percentil,87.3
+Minas Gerais,2019,Máximo,99.2
+Paraná,2019,Mínimo,48.8
+Paraná,2019,25 percentil,81.65
+Paraná,2019,Mediana,87.15
+Paraná,2019,75 percentil,91.4
+Paraná,2019,Máximo,98.4
+Paraíba,2019,Mínimo,54.9
+Paraíba,2019,25 percentil,72.8
+Paraíba,2019,Mediana,77.1
+Paraíba,2019,75 percentil,82.6
+Paraíba,2019,Máximo,89.1
+Pará,2019,Mínimo,13.4
+Pará,2019,25 percentil,33.6
+Pará,2019,Mediana,48.5
+Pará,2019,75 percentil,59.9
+Pará,2019,Máximo,100
+Pernambuco,2019,Mínimo,50
+Pernambuco,2019,25 percentil,70.325
+Pernambuco,2019,Mediana,76.8
+Pernambuco,2019,75 percentil,82.425
+Pernambuco,2019,Máximo,94.2
+Piauí,2019,Mínimo,41.8
+Piauí,2019,25 percentil,62.9
+Piauí,2019,Mediana,67.95
+Piauí,2019,75 percentil,74.425
+Piauí,2019,Máximo,87.3
+Rio Grande do Norte,2019,Mínimo,52.8
+Rio Grande do Norte,2019,25 percentil,67.8
+Rio Grande do Norte,2019,Mediana,71.6
+Rio Grande do Norte,2019,75 percentil,82.3
+Rio Grande do Norte,2019,Máximo,88.1
+Rio Grande do Sul,2019,Mínimo,51.6
+Rio Grande do Sul,2019,25 percentil,76.975
+Rio Grande do Sul,2019,Mediana,81.45
+Rio Grande do Sul,2019,75 percentil,87.225
+Rio Grande do Sul,2019,Máximo,95.4
+Rio de Janeiro,2019,Mínimo,33.3
+Rio de Janeiro,2019,25 percentil,63.875
+Rio de Janeiro,2019,Mediana,74.5
+Rio de Janeiro,2019,75 percentil,80.95
+Rio de Janeiro,2019,Máximo,95.7
+Rondônia,2019,Mínimo,41
+Rondônia,2019,25 percentil,75.15
+Rondônia,2019,Mediana,78.2
+Rondônia,2019,75 percentil,81.25
+Rondônia,2019,Máximo,86.6
+Roraima,2019,Mínimo,1.5
+Roraima,2019,25 percentil,9.1
+Roraima,2019,Mediana,14.7
+Roraima,2019,75 percentil,26
+Roraima,2019,Máximo,60.8
+Santa Catarina,2019,Mínimo,60.7
+Santa Catarina,2019,25 percentil,75.825
+Santa Catarina,2019,Mediana,80.85
+Santa Catarina,2019,75 percentil,84.8
+Santa Catarina,2019,Máximo,94.8
+Sergipe,2019,Mínimo,56.1
+Sergipe,2019,25 percentil,62.2
+Sergipe,2019,Mediana,62.8
+Sergipe,2019,75 percentil,66
+Sergipe,2019,Máximo,69.9
+São Paulo,2019,Mínimo,53.1
+São Paulo,2019,25 percentil,78.65
+São Paulo,2019,Mediana,83.7
+São Paulo,2019,75 percentil,88.95
+São Paulo,2019,Máximo,96.4
+Tocantins,2019,Mínimo,50.4
+Tocantins,2019,25 percentil,58.4
+Tocantins,2019,Mediana,65.8
+Tocantins,2019,75 percentil,71.4
+Tocantins,2019,Máximo,73.1
+Acre,2020,Mínimo,13.7
+Acre,2020,25 percentil,25.675
+Acre,2020,Mediana,31.95
+Acre,2020,75 percentil,48.6
+Acre,2020,Máximo,55.4
+Alagoas,2020,Mínimo,34.9
+Alagoas,2020,25 percentil,58.425
+Alagoas,2020,Mediana,67.05
+Alagoas,2020,75 percentil,76.875
+Alagoas,2020,Máximo,94.2
+Amapá,2020,Mínimo,19.9
+Amapá,2020,25 percentil,23.1
+Amapá,2020,Mediana,34.2
+Amapá,2020,75 percentil,46.55
+Amapá,2020,Máximo,61.1
+Amazonas,2020,Mínimo,21.7
+Amazonas,2020,25 percentil,39.6
+Amazonas,2020,Mediana,48.6
+Amazonas,2020,75 percentil,58.1
+Amazonas,2020,Máximo,88.8
+Bahia,2020,Mínimo,0
+Bahia,2020,25 percentil,61.6
+Bahia,2020,Mediana,70.1
+Bahia,2020,75 percentil,78.2
+Bahia,2020,Máximo,98.2
+Ceará,2020,Mínimo,60.3
+Ceará,2020,25 percentil,76
+Ceará,2020,Mediana,81.6
+Ceará,2020,75 percentil,85.8
+Ceará,2020,Máximo,97.5
+Distrito Federal,2020,Mínimo,70.2
+Distrito Federal,2020,25 percentil,70.2
+Distrito Federal,2020,Mediana,70.2
+Distrito Federal,2020,75 percentil,70.2
+Distrito Federal,2020,Máximo,70.2
+Espírito Santo,2020,Mínimo,38
+Espírito Santo,2020,25 percentil,65.35
+Espírito Santo,2020,Mediana,77.55
+Espírito Santo,2020,75 percentil,82.175
+Espírito Santo,2020,Máximo,88.6
+Goiás,2020,Mínimo,45.9
+Goiás,2020,25 percentil,66.35
+Goiás,2020,Mediana,74.4
+Goiás,2020,75 percentil,83.1
+Goiás,2020,Máximo,92.7
+Maranhão,2020,Mínimo,0.8
+Maranhão,2020,25 percentil,39.55
+Maranhão,2020,Mediana,47.8
+Maranhão,2020,75 percentil,58.25
+Maranhão,2020,Máximo,99.8
+Mato Grosso,2020,Mínimo,13.3
+Mato Grosso,2020,25 percentil,62.45
+Mato Grosso,2020,Mediana,71.2
+Mato Grosso,2020,75 percentil,78.875
+Mato Grosso,2020,Máximo,90.8
+Mato Grosso do Sul,2020,Mínimo,39.1
+Mato Grosso do Sul,2020,25 percentil,62.675
+Mato Grosso do Sul,2020,Mediana,70.3
+Mato Grosso do Sul,2020,75 percentil,82.025
+Mato Grosso do Sul,2020,Máximo,93.2
+Minas Gerais,2020,Mínimo,48.6
+Minas Gerais,2020,25 percentil,74.8
+Minas Gerais,2020,Mediana,80.5
+Minas Gerais,2020,75 percentil,86.3
+Minas Gerais,2020,Máximo,100
+Paraná,2020,Mínimo,44.5
+Paraná,2020,25 percentil,82.575
+Paraná,2020,Mediana,87.55
+Paraná,2020,75 percentil,90.175
+Paraná,2020,Máximo,97.7
+Paraíba,2020,Mínimo,49
+Paraíba,2020,25 percentil,67.2
+Paraíba,2020,Mediana,76
+Paraíba,2020,75 percentil,80.2
+Paraíba,2020,Máximo,87.6
+Pará,2020,Mínimo,6.9
+Pará,2020,25 percentil,32.1
+Pará,2020,Mediana,44.6
+Pará,2020,75 percentil,58.4
+Pará,2020,Máximo,94.7
+Pernambuco,2020,Mínimo,48.3
+Pernambuco,2020,25 percentil,69.725
+Pernambuco,2020,Mediana,75.1
+Pernambuco,2020,75 percentil,81.025
+Pernambuco,2020,Máximo,93.9
+Piauí,2020,Mínimo,25
+Piauí,2020,25 percentil,51.125
+Piauí,2020,Mediana,63.05
+Piauí,2020,75 percentil,68.525
+Piauí,2020,Máximo,77
+Rio Grande do Norte,2020,Mínimo,56.2
+Rio Grande do Norte,2020,25 percentil,67.725
+Rio Grande do Norte,2020,Mediana,75.4
+Rio Grande do Norte,2020,75 percentil,80.8
+Rio Grande do Norte,2020,Máximo,87.7
+Rio Grande do Sul,2020,Mínimo,50.1
+Rio Grande do Sul,2020,25 percentil,75.9
+Rio Grande do Sul,2020,Mediana,82.5
+Rio Grande do Sul,2020,75 percentil,87.25
+Rio Grande do Sul,2020,Máximo,95.2
+Rio de Janeiro,2020,Mínimo,33.7
+Rio de Janeiro,2020,25 percentil,61.6
+Rio de Janeiro,2020,Mediana,73.9
+Rio de Janeiro,2020,75 percentil,80.05
+Rio de Janeiro,2020,Máximo,92.8
+Rondônia,2020,Mínimo,32.9
+Rondônia,2020,25 percentil,71.225
+Rondônia,2020,Mediana,76.45
+Rondônia,2020,75 percentil,79.625
+Rondônia,2020,Máximo,85.3
+Roraima,2020,Mínimo,1
+Roraima,2020,25 percentil,9.1
+Roraima,2020,Mediana,12
+Roraima,2020,75 percentil,22.9
+Roraima,2020,Máximo,53.7
+Santa Catarina,2020,Mínimo,51.1
+Santa Catarina,2020,25 percentil,75.05
+Santa Catarina,2020,Mediana,80
+Santa Catarina,2020,75 percentil,84.4
+Santa Catarina,2020,Máximo,98.2
+Sergipe,2020,Mínimo,46.1
+Sergipe,2020,25 percentil,60.2
+Sergipe,2020,Mediana,63
+Sergipe,2020,75 percentil,65.3
+Sergipe,2020,Máximo,68.7
+São Paulo,2020,Mínimo,49
+São Paulo,2020,25 percentil,78.8
+São Paulo,2020,Mediana,83.9
+São Paulo,2020,75 percentil,88.3
+São Paulo,2020,Máximo,97.8
+Tocantins,2020,Mínimo,52.6
+Tocantins,2020,25 percentil,56.5
+Tocantins,2020,Mediana,64
+Tocantins,2020,75 percentil,71.1
+Tocantins,2020,Máximo,72.1
+Acre,2021,Mínimo,11.3
+Acre,2021,25 percentil,22.925
+Acre,2021,Mediana,31.4
+Acre,2021,75 percentil,39.05
+Acre,2021,Máximo,60.2
+Alagoas,2021,Mínimo,49.5
+Alagoas,2021,25 percentil,67.4
+Alagoas,2021,Mediana,70.7
+Alagoas,2021,75 percentil,78.75
+Alagoas,2021,Máximo,98.5
+Amapá,2021,Mínimo,29.1
+Amapá,2021,25 percentil,32.45
+Amapá,2021,Mediana,35.7
+Amapá,2021,75 percentil,42.15
+Amapá,2021,Máximo,56.4
+Amazonas,2021,Mínimo,31.6
+Amazonas,2021,25 percentil,45.225
+Amazonas,2021,Mediana,53.15
+Amazonas,2021,75 percentil,62.725
+Amazonas,2021,Máximo,92
+Bahia,2021,Mínimo,0
+Bahia,2021,25 percentil,63.65
+Bahia,2021,Mediana,71.95
+Bahia,2021,75 percentil,79.025
+Bahia,2021,Máximo,97.3
+Ceará,2021,Mínimo,52.9
+Ceará,2021,25 percentil,79.5
+Ceará,2021,Mediana,83.2
+Ceará,2021,75 percentil,87.5
+Ceará,2021,Máximo,97.3
+Distrito Federal,2021,Mínimo,71.6
+Distrito Federal,2021,25 percentil,71.6
+Distrito Federal,2021,Mediana,71.6
+Distrito Federal,2021,75 percentil,71.6
+Distrito Federal,2021,Máximo,71.6
+Espírito Santo,2021,Mínimo,59.1
+Espírito Santo,2021,25 percentil,66.8
+Espírito Santo,2021,Mediana,77.2
+Espírito Santo,2021,75 percentil,82.05
+Espírito Santo,2021,Máximo,87.4
+Goiás,2021,Mínimo,43.3
+Goiás,2021,25 percentil,66.925
+Goiás,2021,Mediana,75.15
+Goiás,2021,75 percentil,83.025
+Goiás,2021,Máximo,97.6
+Maranhão,2021,Mínimo,13.7
+Maranhão,2021,25 percentil,43.9
+Maranhão,2021,Mediana,53.8
+Maranhão,2021,75 percentil,63.425
+Maranhão,2021,Máximo,99.7
+Mato Grosso,2021,Mínimo,11.1
+Mato Grosso,2021,25 percentil,64.35
+Mato Grosso,2021,Mediana,73.7
+Mato Grosso,2021,75 percentil,82.15
+Mato Grosso,2021,Máximo,92.6
+Mato Grosso do Sul,2021,Mínimo,46.8
+Mato Grosso do Sul,2021,25 percentil,64.2
+Mato Grosso do Sul,2021,Mediana,72.3
+Mato Grosso do Sul,2021,75 percentil,81.05
+Mato Grosso do Sul,2021,Máximo,92.6
+Minas Gerais,2021,Mínimo,54.4
+Minas Gerais,2021,25 percentil,76.1
+Minas Gerais,2021,Mediana,81.1
+Minas Gerais,2021,75 percentil,86.5
+Minas Gerais,2021,Máximo,98.2
+Paraná,2021,Mínimo,55.1
+Paraná,2021,25 percentil,83.1
+Paraná,2021,Mediana,87.9
+Paraná,2021,75 percentil,91.1
+Paraná,2021,Máximo,97.2
+Paraíba,2021,Mínimo,56.8
+Paraíba,2021,25 percentil,71.6
+Paraíba,2021,Mediana,78.1
+Paraíba,2021,75 percentil,80.65
+Paraíba,2021,Máximo,91.3
+Pará,2021,Mínimo,11.1
+Pará,2021,25 percentil,41.9
+Pará,2021,Mediana,54.35
+Pará,2021,75 percentil,63.575
+Pará,2021,Máximo,96.2
+Pernambuco,2021,Mínimo,51.5
+Pernambuco,2021,25 percentil,72.4
+Pernambuco,2021,Mediana,77.1
+Pernambuco,2021,75 percentil,82.7
+Pernambuco,2021,Máximo,95
+Piauí,2021,Mínimo,45.5
+Piauí,2021,25 percentil,61.775
+Piauí,2021,Mediana,70.05
+Piauí,2021,75 percentil,74.45
+Piauí,2021,Máximo,83.5
+Rio Grande do Norte,2021,Mínimo,62
+Rio Grande do Norte,2021,25 percentil,72.15
+Rio Grande do Norte,2021,Mediana,79.85
+Rio Grande do Norte,2021,75 percentil,84.65
+Rio Grande do Norte,2021,Máximo,87.8
+Rio Grande do Sul,2021,Mínimo,48.6
+Rio Grande do Sul,2021,25 percentil,76.85
+Rio Grande do Sul,2021,Mediana,83
+Rio Grande do Sul,2021,75 percentil,88.45
+Rio Grande do Sul,2021,Máximo,95.6
+Rio de Janeiro,2021,Mínimo,39.3
+Rio de Janeiro,2021,25 percentil,62.7
+Rio de Janeiro,2021,Mediana,74.1
+Rio de Janeiro,2021,75 percentil,81.2
+Rio de Janeiro,2021,Máximo,94.2
+Rondônia,2021,Mínimo,46.5
+Rondônia,2021,25 percentil,75.85
+Rondônia,2021,Mediana,79.35
+Rondônia,2021,75 percentil,81.975
+Rondônia,2021,Máximo,90.7
+Roraima,2021,Mínimo,1.2
+Roraima,2021,25 percentil,15.1
+Roraima,2021,Mediana,22.8
+Roraima,2021,75 percentil,29.5
+Roraima,2021,Máximo,61.4
+Santa Catarina,2021,Mínimo,52.8
+Santa Catarina,2021,25 percentil,76.4
+Santa Catarina,2021,Mediana,80.9
+Santa Catarina,2021,75 percentil,84.75
+Santa Catarina,2021,Máximo,94.4
+Sergipe,2021,Mínimo,53.3
+Sergipe,2021,25 percentil,61.6
+Sergipe,2021,Mediana,66.4
+Sergipe,2021,75 percentil,68.2
+Sergipe,2021,Máximo,72.9
+São Paulo,2021,Mínimo,54.4
+São Paulo,2021,25 percentil,79.4
+São Paulo,2021,Mediana,84.8
+São Paulo,2021,75 percentil,88.7
+São Paulo,2021,Máximo,97
+Tocantins,2021,Mínimo,58.7
+Tocantins,2021,25 percentil,68.4
+Tocantins,2021,Mediana,71.2
+Tocantins,2021,75 percentil,73.1
+Tocantins,2021,Máximo,76.7
+Acre,2022,Mínimo,17.4
+Acre,2022,25 percentil,20.625
+Acre,2022,Mediana,30.9
+Acre,2022,75 percentil,50.8
+Acre,2022,Máximo,63.6
+Alagoas,2022,Mínimo,56.1
+Alagoas,2022,25 percentil,68.6
+Alagoas,2022,Mediana,75
+Alagoas,2022,75 percentil,83.15
+Alagoas,2022,Máximo,99.6
+Amapá,2022,Mínimo,26.9
+Amapá,2022,25 percentil,36.9
+Amapá,2022,Mediana,47.9
+Amapá,2022,75 percentil,55.2
+Amapá,2022,Máximo,61.1
+Amazonas,2022,Mínimo,33.7
+Amazonas,2022,25 percentil,51.2
+Amazonas,2022,Mediana,56.2
+Amazonas,2022,75 percentil,66.925
+Amazonas,2022,Máximo,90.6
+Bahia,2022,Mínimo,1.2
+Bahia,2022,25 percentil,68.6
+Bahia,2022,Mediana,76
+Bahia,2022,75 percentil,82.35
+Bahia,2022,Máximo,99.5
+Ceará,2022,Mínimo,71.2
+Ceará,2022,25 percentil,82.1
+Ceará,2022,Mediana,85.3
+Ceará,2022,75 percentil,89.9
+Ceará,2022,Máximo,99.2
+Distrito Federal,2022,Mínimo,72.6
+Distrito Federal,2022,25 percentil,72.6
+Distrito Federal,2022,Mediana,72.6
+Distrito Federal,2022,75 percentil,72.6
+Distrito Federal,2022,Máximo,72.6
+Espírito Santo,2022,Mínimo,56.7
+Espírito Santo,2022,25 percentil,73.025
+Espírito Santo,2022,Mediana,78.15
+Espírito Santo,2022,75 percentil,83.9
+Espírito Santo,2022,Máximo,88.8
+Goiás,2022,Mínimo,21.8
+Goiás,2022,25 percentil,68.25
+Goiás,2022,Mediana,75.6
+Goiás,2022,75 percentil,83.4
+Goiás,2022,Máximo,97.1
+Maranhão,2022,Mínimo,23.7
+Maranhão,2022,25 percentil,52.3
+Maranhão,2022,Mediana,60.7
+Maranhão,2022,75 percentil,70.8
+Maranhão,2022,Máximo,99.2
+Mato Grosso,2022,Mínimo,33.1
+Mato Grosso,2022,25 percentil,68.475
+Mato Grosso,2022,Mediana,77.1
+Mato Grosso,2022,75 percentil,83.45
+Mato Grosso,2022,Máximo,97
+Mato Grosso do Sul,2022,Mínimo,50.6
+Mato Grosso do Sul,2022,25 percentil,66.15
+Mato Grosso do Sul,2022,Mediana,76
+Mato Grosso do Sul,2022,75 percentil,81.45
+Mato Grosso do Sul,2022,Máximo,95.6
+Minas Gerais,2022,Mínimo,53.4
+Minas Gerais,2022,25 percentil,75.725
+Minas Gerais,2022,Mediana,81.4
+Minas Gerais,2022,75 percentil,86.8
+Minas Gerais,2022,Máximo,97.2
+Paraná,2022,Mínimo,60.5
+Paraná,2022,25 percentil,82.575
+Paraná,2022,Mediana,88
+Paraná,2022,75 percentil,91.95
+Paraná,2022,Máximo,98.5
+Paraíba,2022,Mínimo,53.7
+Paraíba,2022,25 percentil,74.15
+Paraíba,2022,Mediana,78.55
+Paraíba,2022,75 percentil,83.5
+Paraíba,2022,Máximo,91.3
+Pará,2022,Mínimo,12.4
+Pará,2022,25 percentil,47.925
+Pará,2022,Mediana,59.85
+Pará,2022,75 percentil,68.225
+Pará,2022,Máximo,97.3
+Pernambuco,2022,Mínimo,48.3
+Pernambuco,2022,25 percentil,73.75
+Pernambuco,2022,Mediana,79.4
+Pernambuco,2022,75 percentil,85.3
+Pernambuco,2022,Máximo,95
+Piauí,2022,Mínimo,42.3
+Piauí,2022,25 percentil,67.775
+Piauí,2022,Mediana,74.1
+Piauí,2022,75 percentil,77.775
+Piauí,2022,Máximo,89.5
+Rio Grande do Norte,2022,Mínimo,65.7
+Rio Grande do Norte,2022,25 percentil,74.2
+Rio Grande do Norte,2022,Mediana,81.5
+Rio Grande do Norte,2022,75 percentil,84.8
+Rio Grande do Norte,2022,Máximo,88.3
+Rio Grande do Sul,2022,Mínimo,63.2
+Rio Grande do Sul,2022,25 percentil,78.175
+Rio Grande do Sul,2022,Mediana,83.3
+Rio Grande do Sul,2022,75 percentil,88
+Rio Grande do Sul,2022,Máximo,100
+Rio de Janeiro,2022,Mínimo,40.4
+Rio de Janeiro,2022,25 percentil,66.375
+Rio de Janeiro,2022,Mediana,74.6
+Rio de Janeiro,2022,75 percentil,82.25
+Rio de Janeiro,2022,Máximo,95.4
+Rondônia,2022,Mínimo,44.3
+Rondônia,2022,25 percentil,75.9
+Rondônia,2022,Mediana,80.7
+Rondônia,2022,75 percentil,82.8
+Rondônia,2022,Máximo,89.9
+Roraima,2022,Mínimo,0
+Roraima,2022,25 percentil,11.7
+Roraima,2022,Mediana,15.7
+Roraima,2022,75 percentil,23.8
+Roraima,2022,Máximo,63.7
+Santa Catarina,2022,Mínimo,64.7
+Santa Catarina,2022,25 percentil,78.925
+Santa Catarina,2022,Mediana,81
+Santa Catarina,2022,75 percentil,85.55
+Santa Catarina,2022,Máximo,96.6
+Sergipe,2022,Mínimo,59.6
+Sergipe,2022,25 percentil,66.525
+Sergipe,2022,Mediana,71.65
+Sergipe,2022,75 percentil,73.8
+Sergipe,2022,Máximo,76.6
+São Paulo,2022,Mínimo,58.5
+São Paulo,2022,25 percentil,79.825
+São Paulo,2022,Mediana,84.3
+São Paulo,2022,75 percentil,88.4
+São Paulo,2022,Máximo,97.2
+Tocantins,2022,Mínimo,62.3
+Tocantins,2022,25 percentil,71.15
+Tocantins,2022,Mediana,73.9
+Tocantins,2022,75 percentil,75.05
+Tocantins,2022,Máximo,76.4
+Acre,2023,Mínimo,20
+Acre,2023,25 percentil,24.6
+Acre,2023,Mediana,32.3
+Acre,2023,75 percentil,62.35
+Acre,2023,Máximo,66.8
+Alagoas,2023,Mínimo,53.8
+Alagoas,2023,25 percentil,76.15
+Alagoas,2023,Mediana,82.6
+Alagoas,2023,75 percentil,86.8
+Alagoas,2023,Máximo,100
+Amapá,2023,Mínimo,38.7
+Amapá,2023,25 percentil,46.95
+Amapá,2023,Mediana,50.4
+Amapá,2023,75 percentil,55.275
+Amapá,2023,Máximo,67.8
+Amazonas,2023,Mínimo,32
+Amazonas,2023,25 percentil,55.75
+Amazonas,2023,Mediana,62.95
+Amazonas,2023,75 percentil,70.525
+Amazonas,2023,Máximo,94.4
+Bahia,2023,Mínimo,38
+Bahia,2023,25 percentil,70.725
+Bahia,2023,Mediana,78.4
+Bahia,2023,75 percentil,83.675
+Bahia,2023,Máximo,97.2
+Ceará,2023,Mínimo,74.1
+Ceará,2023,25 percentil,84.075
+Ceará,2023,Mediana,88.7
+Ceará,2023,75 percentil,92.425
+Ceará,2023,Máximo,98.4
+Distrito Federal,2023,Mínimo,75.5
+Distrito Federal,2023,25 percentil,75.5
+Distrito Federal,2023,Mediana,75.5
+Distrito Federal,2023,75 percentil,75.5
+Distrito Federal,2023,Máximo,75.5
+Espírito Santo,2023,Mínimo,61.9
+Espírito Santo,2023,25 percentil,74.5
+Espírito Santo,2023,Mediana,79.85
+Espírito Santo,2023,75 percentil,84.575
+Espírito Santo,2023,Máximo,88.9
+Goiás,2023,Mínimo,43.9
+Goiás,2023,25 percentil,73.2
+Goiás,2023,Mediana,78.6
+Goiás,2023,75 percentil,84.7
+Goiás,2023,Máximo,99.1
+Maranhão,2023,Mínimo,34.2
+Maranhão,2023,25 percentil,55.725
+Maranhão,2023,Mediana,65.75
+Maranhão,2023,75 percentil,73.125
+Maranhão,2023,Máximo,100
+Mato Grosso,2023,Mínimo,9.9
+Mato Grosso,2023,25 percentil,71.65
+Mato Grosso,2023,Mediana,80.55
+Mato Grosso,2023,75 percentil,86.4
+Mato Grosso,2023,Máximo,99.1
+Mato Grosso do Sul,2023,Mínimo,50.9
+Mato Grosso do Sul,2023,25 percentil,73.1
+Mato Grosso do Sul,2023,Mediana,79.7
+Mato Grosso do Sul,2023,75 percentil,84.7
+Mato Grosso do Sul,2023,Máximo,93.5
+Minas Gerais,2023,Mínimo,53.4
+Minas Gerais,2023,25 percentil,77.5
+Minas Gerais,2023,Mediana,83.4
+Minas Gerais,2023,75 percentil,87.9
+Minas Gerais,2023,Máximo,100
+Paraná,2023,Mínimo,0.5
+Paraná,2023,25 percentil,84.825
+Paraná,2023,Mediana,90.05
+Paraná,2023,75 percentil,92.3
+Paraná,2023,Máximo,99.4
+Paraíba,2023,Mínimo,53.9
+Paraíba,2023,25 percentil,78.3
+Paraíba,2023,Mediana,83.4
+Paraíba,2023,75 percentil,86.25
+Paraíba,2023,Máximo,90.2
+Pará,2023,Mínimo,13.4
+Pará,2023,25 percentil,53.725
+Pará,2023,Mediana,64.6
+Pará,2023,75 percentil,71.775
+Pará,2023,Máximo,99.2
+Pernambuco,2023,Mínimo,54.5
+Pernambuco,2023,25 percentil,76.175
+Pernambuco,2023,Mediana,81.35
+Pernambuco,2023,75 percentil,88.125
+Pernambuco,2023,Máximo,95.7
+Piauí,2023,Mínimo,66.8
+Piauí,2023,25 percentil,71.7
+Piauí,2023,Mediana,78.55
+Piauí,2023,75 percentil,82.925
+Piauí,2023,Máximo,91.9
+Rio Grande do Norte,2023,Mínimo,60.9
+Rio Grande do Norte,2023,25 percentil,74.9
+Rio Grande do Norte,2023,Mediana,80.7
+Rio Grande do Norte,2023,75 percentil,87.2
+Rio Grande do Norte,2023,Máximo,94.8
+Rio Grande do Sul,2023,Mínimo,65.6
+Rio Grande do Sul,2023,25 percentil,82
+Rio Grande do Sul,2023,Mediana,84.3
+Rio Grande do Sul,2023,75 percentil,90.15
+Rio Grande do Sul,2023,Máximo,98
+Rio de Janeiro,2023,Mínimo,39.5
+Rio de Janeiro,2023,25 percentil,71.4
+Rio de Janeiro,2023,Mediana,79.5
+Rio de Janeiro,2023,75 percentil,84.075
+Rio de Janeiro,2023,Máximo,93
+Rondônia,2023,Mínimo,53
+Rondônia,2023,25 percentil,77.3
+Rondônia,2023,Mediana,82.6
+Rondônia,2023,75 percentil,85.6
+Rondônia,2023,Máximo,91.8
+Roraima,2023,Mínimo,1.9
+Roraima,2023,25 percentil,11.1
+Roraima,2023,Mediana,17.6
+Roraima,2023,75 percentil,24.1
+Roraima,2023,Máximo,71.8
+Santa Catarina,2023,Mínimo,67.4
+Santa Catarina,2023,25 percentil,80.1
+Santa Catarina,2023,Mediana,83.15
+Santa Catarina,2023,75 percentil,87.175
+Santa Catarina,2023,Máximo,96.1
+Sergipe,2023,Mínimo,60.8
+Sergipe,2023,25 percentil,71.6
+Sergipe,2023,Mediana,75.75
+Sergipe,2023,75 percentil,77.775
+Sergipe,2023,Máximo,82
+São Paulo,2023,Mínimo,60.8
+São Paulo,2023,25 percentil,80.675
+São Paulo,2023,Mediana,86.2
+São Paulo,2023,75 percentil,90.025
+São Paulo,2023,Máximo,98.1
+Tocantins,2023,Mínimo,65.9
+Tocantins,2023,25 percentil,71.25
+Tocantins,2023,Mediana,75.25
+Tocantins,2023,75 percentil,77.8
+Tocantins,2023,Máximo,83.8
